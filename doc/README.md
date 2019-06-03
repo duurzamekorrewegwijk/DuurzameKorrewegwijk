@@ -1,3 +1,3 @@
 # Documenten DUURZAME KORREWEGWIJK
 
-* [Notitie Duurzame Semarangstraat](notitieDuurzameSemarangstraat.pdf)
+* [Semarangstraat](semarangstraat/README.md)
