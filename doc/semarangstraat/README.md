@@ -1,5 +1,5 @@
 # SEMARANGSTRAAT
 
 * [Notitie Duurzame Semarangstraat](notitieDuurzameSemarangstraat.pdf)
-* [Semarangstraat](semarangstraat.pdf)
+* [Groene tegels Semarangstraat](semarangstraat.pdf)
 
