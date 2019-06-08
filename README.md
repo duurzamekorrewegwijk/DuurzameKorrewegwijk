@@ -11,7 +11,8 @@
 Op dit moment tracht *Duurzame Korrewegwijk* een project voor een groen dak & zonnepanelen installatie van de grond te krijgen (ism. *Grunneger Power*) voor huurcomplexen id Nieuw Indische buurt en mogelijk ook andere delen vd wijk waar voor zonnepanelen geschikte daken (platte daken) liggen.
 
 Verdere thema's zijn:
-* Afval, recycling & composteren - streven naar een afval-loze/plastic-loze wijk.
+* Afval, recycling & composteren - streven naar een afval-loze/plastic-loze wijk en meer bewoners die zelf composteren.
 * Initiatieven tegen voedselverspilling.
 * Bevorderen van duurzame mobiliteit en beter benutten van parkeer-gelegenheid door deel-auto gebruik te bevorderen.
 * Projecten om de bio-diversiteit in de wijk te verbeteren (insecten- en bijen-hotels, bijen en vlinder tuinen, etc.)
+* Groene gevels, groene tegels en groene daken van gebouwen en bijgebouwen.
