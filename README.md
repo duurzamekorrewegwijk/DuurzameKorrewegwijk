@@ -16,3 +16,6 @@ Verdere thema's zijn:
 * Bevorderen van duurzame mobiliteit en beter benutten van parkeer-gelegenheid door deel-auto gebruik te bevorderen.
 * Projecten om de bio-diversiteit in de wijk te verbeteren (insecten- en bijen-hotels, bijen en vlinder tuinen, etc.)
 * Groene gevels, groene tegels en groene daken van gebouwen en bijgebouwen.
+
+DOCUMENTEN:
+[documentatie](doc/README.md)
