@@ -18,4 +18,5 @@ Verdere thema's zijn:
 * Groene gevels, groene tegels en groene daken van gebouwen en bijgebouwen.
 
 DOCUMENTEN:
+
 [documentatie](doc/README.md)
