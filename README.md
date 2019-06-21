@@ -20,3 +20,8 @@ Verdere thema's zijn:
 DOCUMENTEN:
 
 [documentatie](doc/README.md)
+
+BIJDAGEN:
+
+Wil je je eigen ideën hier kwijt, stuur dan een mail naar:
+duurzamekorrewegwijk@gmail.com
