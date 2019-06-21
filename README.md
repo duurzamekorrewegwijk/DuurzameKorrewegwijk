@@ -24,4 +24,5 @@ DOCUMENTEN:
 BIJDAGEN:
 
 Wil je je eigen ideën hier kwijt, stuur dan een mail naar:
+
 duurzamekorrewegwijk@gmail.com
