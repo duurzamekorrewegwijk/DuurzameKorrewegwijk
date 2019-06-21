@@ -21,7 +21,7 @@ DOCUMENTEN:
 
 [documentatie](doc/README.md)
 
-BIJDAGEN:
+BIJDRAGEN:
 
 Wil je je eigen ideën hier kwijt, stuur dan een mail naar:
 
