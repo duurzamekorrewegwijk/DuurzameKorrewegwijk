@@ -10,4 +10,4 @@ Op 29 juni bleek bij 3 van de 4 bomen dat de opkomende bloemen waren weggebrand 
 
 ![../img/IMG_9560](../img/IMG_9560)
 
-![../img/IMG_9559]{../img/IMG_9559)
+![../img/IMG_9559](../img/IMG_9559)
