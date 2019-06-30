@@ -4,10 +4,10 @@ Het bewoners initiatief Duurzamae / Groene Semarangstraat adopteerde 4 bomen in 
 
 Op 29 juni bleek bij 3 van de 4 bomen dat de opkomende bloemen waren weggebrand door een brander, waarschijnlijk een onkruid-bestrijdingsactie van de gemeente.
 
-![../../img/IMG_9562](../../img/IMG_9562)
+![Boom #1](img/IMG_9562)
 
-![../../img/IMG_9561](../../img/IMG_9561)
+![Boom #2](img/IMG_9561)
 
-![../../img/IMG_9560](../../img/IMG_9560)
+![Boom #3](img/IMG_9560)
 
-![../../img/IMG_9559](../../img/IMG_9559)
+![Boom #4](img/IMG_9559)
