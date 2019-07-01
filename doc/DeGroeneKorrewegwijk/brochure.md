@@ -2,16 +2,29 @@
 
 **Formaat en kosten**
 
-A5? (dubbelgevouwen A4). 
+A5? (dubbelgevouwen A4 dubbelzijdig met kaft). 
 
 Kopieren (zwart/wit) = 3,75 cent per A4 enkelzijdig.
+
 Dupliceren (per kleur) = 1,8 cent per A4 enkelzijdig. (minimum oplage 500 stuks. Alleen steunkleur, niet fullcolour).
+
+Fullcolour: via de grafisch ontwerper/opmaker tarieven opvragen bij drukker.
+
+**Suggestie**
+
+Eerst kleine oplage en eenvoudige uitgave maken zwart/wit of met steunkleur alleen voor de buitenkaft.
+
+Verspreiding via de buurtcentra en via de wijkmarkt/stand of waar we publiciteit maken.
+
+Kosten: gratis? kleine bijdrage?
+
+Budget: via de bewoners org. (3/4 voor WOK, 1/4 voor prof. buurt). (zelfde verdeelsleutel als bij de wijkkrant)?
 
 **Inhoud**
 
 * Inleiding
 
-Thema klimaat en verduurzaming wordt nu stevig ingezet. Gas wordt duurder, electra goedkoper. Wat betekent dit voor eigenaren/bewoners, huurders en kamerhuurders in de wijk?
+Thema klimaat en verduurzaming wordt nu stevig ingezet door kabinet en gemeente. Gas wordt duurder, electra goedkoper. Wat betekent dit voor eigenaren/bewoners, huurders en kamerhuurders in de wijk?
 
 * De werkgroep *De Groene Korrewegwijk*
 
@@ -57,9 +70,25 @@ Hoe kom je je label te weten? Hoe kun je die laten checken?
 
 Loopt tot 2023. Daarna wordt dit versoberd. Waarschijnlijk val je nog 5 jaar onder de oude regeling als panelen voor 2023 geplaatst zijn.
 
-* Gasloos
+* Gasloos?
 
-Het is op dit moment niet bekend of de Korrewegwijk gasloos wordt gemaakt en of er bijv. een warmte-net komt. Wanneer dit gaat spelen zal de werkgroep daarover overleg gaan opstarten met de wijk.
+Het is op dit moment niet bekend of de Korrewegwijk gasloos wordt gemaakt en of er bijv. een warmte-net komt. Wanneer dit gaat spelen zal de werkgroep daarover overleg gaan opstarten met de wijk. Warmtenet zegt hierover dat je bij verduurzaming dit via de trias-energetica zou moeten doorrekenen. Het nut van een warmtenet voor verduurzaming hangt van veel factoren af, zoals de warmtebron, temperatuur (hoog of laag), type woningen en welke aanpassingen nodig zijn, etc. 
+
+* Inbreng bewoners
+
+Hoe willen bewoners met het thema aan de gang. Welke suggesties hebben ze? Wil men actief deelnemen aan de werkgroep of een thema-groep starten?
+
+Bijv. thema-bijeenkomsten over:
+
+** bio-diversiteit in de wijk (bijv. ism. natuur- en milieu federatie)
+
+** Verduurzaming van mobiliteit  (gem. werkgroep? project electr. deel-auto?)
+
+[Duurzame mobiliteit](mobiliteit/README.md)
+
+** Afval, recycling en compostering (ism. Groene Huis)
+
+etc.
 
 * Adressen
 
