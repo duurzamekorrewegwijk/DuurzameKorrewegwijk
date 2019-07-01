@@ -84,7 +84,7 @@ Bijv. thema-bijeenkomsten over:
 
 ** Verduurzaming van mobiliteit  (gem. werkgroep? project electr. deel-auto?)
 
-[Duurzame mobiliteit](mobiliteit/README.md)
+[Duurzame mobiliteit](doc/mobiliteit/README.md)
 
 ** Afval, recycling en compostering (ism. Groene Huis)
 
