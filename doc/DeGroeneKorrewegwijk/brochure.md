@@ -13,7 +13,9 @@ Dupliceren (per kleur) = 1,8 cent per A4 enkelzijdig. (minimum oplage 500 stuks.
 
 Thema klimaat en verduurzaming wordt nu stevig ingezet. Gas wordt duurder, electra goedkoper. Wat betekent dit voor eigenaren/bewoners, huurders en kamerhuurders in de wijk?
 
-* Even voorstellen: Wie zijn we, hoe zijn we ontstaan, wat gaan we doen?
+* De werkgroep De Groene Korrewegwijk
+
+Even voorstellen: Wie zijn we, hoe zijn we ontstaan, wat gaan we doen?
 
 * Zonnepanelen en groene daken project
 
