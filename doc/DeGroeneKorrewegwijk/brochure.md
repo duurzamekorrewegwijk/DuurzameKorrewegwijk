@@ -76,9 +76,9 @@ Hoe kom je je label te weten? Hoe kun je die laten checken?
 
 Loopt tot 2023. Daarna wordt dit versoberd. Waarschijnlijk val je nog 5 jaar onder de oude regeling als panelen voor 2023 geplaatst zijn.
 
-* Gasloos?
+* Gasloos/warmtenet?  (.. is dit van belang? anders weglaten ..)
 
-Het is op dit moment niet bekend of de Korrewegwijk gasloos wordt gemaakt en of er bijv. een warmte-net komt. Wanneer dit gaat spelen zal de werkgroep daarover overleg gaan opstarten met de wijk. Warmtenet zegt hierover dat je bij verduurzaming dit via de trias-energetica zou moeten doorrekenen. Het nut van een warmtenet voor verduurzaming hangt van veel factoren af, zoals de warmtebron, temperatuur (hoog of laag), type woningen en welke aanpassingen nodig zijn, etc. 
+Het is op dit moment niet bekend of de Korrewegwijk gasloos wordt gemaakt en of er bijv. een warmte-net komt. Wanneer dit gaat spelen zal de werkgroep daarover overleg gaan opstarten met de wijk. WarmteStad zegt hierover dat je bij verduurzaming dit via de trias-energetica zou moeten doorrekenen. Het nut van een warmtenet voor verduurzaming hangt van veel factoren af, zoals de soort warmtebron, temperatuur (hoog of laag), type woningen en welke aanpassingen nodig zijn, etc. De beslissing over aanleggen warmte-net ligt bij gemeente. 
 
 * Inbreng bewoners
 
