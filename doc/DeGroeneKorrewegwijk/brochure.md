@@ -28,7 +28,9 @@ Budget: via de bewoners org. (3/4 voor WOK, 1/4 voor prof. buurt). (zelfde verde
 
 * Inleiding
 
-Thema klimaat en verduurzaming wordt nu stevig ingezet door kabinet en gemeente. Gas wordt duurder, electra goedkoper. Wat betekent dit voor eigenaren/bewoners, huurders en kamerhuurders in de wijk?
+Thema klimaat en verduurzaming wordt nu stevig ingezet door kabinet en gemeente. Gas wordt duurder, electra goedkoper. Wat betekent dit voor eigenaren/bewoners, huurders en kamerhuurders in de wijk? Wat willen wij met dit thema? Oud wijkstemdag project ('duurzame korrewegwijk') bevat aantal ideëen die van nut kunnen zijn voor vergroening en verduurzaming van de wijk.
+
+We willen wel de wijk verduurzamen, maar.... niet te duur (rekening houden met veel lage inkomens in de wijk).
 
 * De werkgroep *De Groene Korrewegwijk*
 
