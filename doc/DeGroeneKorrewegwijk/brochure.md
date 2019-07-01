@@ -84,11 +84,11 @@ Bijv. thema-bijeenkomsten over:
 
 ** Verduurzaming van mobiliteit  (gem. werkgroep? project electr. deel-auto?)
 
-[Duurzame mobiliteit](doc/mobiliteit/README.md)
-
 ** Afval, recycling en compostering (ism. Groene Huis)
 
 etc.
+
+---
 
 * Adressen
 
@@ -103,6 +103,8 @@ etc.
 ** Groene huis
 
 ** WIJ team
+
+---
 
 * Nuttige sites
 
