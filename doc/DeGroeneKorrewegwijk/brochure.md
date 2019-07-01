@@ -10,9 +10,13 @@ Dupliceren (per kleur) = 1,8 cent per A4 enkelzijdig. (minimum oplage 500 stuks.
 
 Fullcolour: via de grafisch ontwerper/opmaker tarieven opvragen bij drukker.
 
-**Suggestie**
+**Oplage en uitgifte**
 
-Eerst kleine oplage en eenvoudige uitgave maken zwart/wit of met steunkleur alleen voor de buitenkaft.
+Eerst proef versie maken en in kleine kring laten proeflezen. Eind versie door een redacteur.
+
+Daarna kleine oplage en eenvoudige uitgave maken zwart/wit of met steunkleur alleen voor de buitenkaft.
+
+Bij nieuwe oplage kan de brochure tevens worden geactualiseerd en verbeterd.
 
 Verspreiding via de buurtcentra en via de wijkmarkt/stand of waar we publiciteit maken.
 
