@@ -10,6 +10,8 @@ Dupliceren (per kleur) = 1,8 cent per A4 enkelzijdig. (minimum oplage 500 stuks.
 
 Fullcolour: via de grafisch ontwerper/opmaker tarieven opvragen bij drukker.
 
+Omvang: 10 tot max. 20 pagina's A5.
+
 **Oplage en uitgifte**
 
 Eerst proef versie maken en in kleine kring laten proeflezen. Eind versie door een redacteur.
@@ -20,7 +22,7 @@ Bij nieuwe oplage kan de brochure tevens worden geactualiseerd en verbeterd.
 
 Verspreiding via de buurtcentra en via de wijkmarkt/stand of waar we publiciteit maken.
 
-Kosten: gratis? kleine bijdrage?
+Kosten: gratis? kleine bijdrage? (een eenvoudige uitgave kost minder dan een euro per stuk)
 
 Budget: via de bewoners org. (3/4 voor WOK, 1/4 voor prof. buurt). (zelfde verdeelsleutel als bij de wijkkrant)?
 
