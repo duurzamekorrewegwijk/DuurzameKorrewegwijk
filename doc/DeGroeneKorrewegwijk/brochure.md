@@ -65,7 +65,7 @@ Het is op dit moment niet bekend of de Korrewegwijk gasloos wordt gemaakt en of 
 
 ** Werkgroep
 
-** Bewoners organisaties (WOK en buurt org. Prof.. buurt)
+** Bewoners organisaties (WOK en buurt org. Prof. buurt)
 
 ** Grunneger Power
 
