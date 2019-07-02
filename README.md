@@ -4,7 +4,7 @@
 
 # Duurzame Korrewegwijk
 
-*Duurzame Korrewegwijk* is een bewoners project/initiatief, met als doel het realiseren van een duurzame korrewegwijk. 
+*Duurzame Korrewegwijk* is een bewoners project/initiatief, met als doel het realiseren van een duurzame korrewegwijk. Het werd in 2012 ingediend als wijkstemdag project.
 
 *Duurzame Korrewegwijk* is (momenteel) geen organisatie of stichting maar werkt samen met wijk- en buurtbewoners en hun organenen en andere organisaties die actief zijn in de wijk, die op het vlak van verduurzaming samen willen werken.
 
