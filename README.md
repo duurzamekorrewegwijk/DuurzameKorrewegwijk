@@ -8,7 +8,7 @@
 
 *Duurzame Korrewegwijk* is (momenteel) geen organisatie of stichting maar werkt samen met wijk- en buurtbewoners en hun organenen en andere organisaties die actief zijn in de wijk, die op het vlak van verduurzaming samen willen werken.
 
-Op dit moment tracht *Duurzame Korrewegwijk* een project voor een groen dak & zonnepanelen installatie van de grond te krijgen (ism. *Grunneger Power*) voor huurcomplexen id Nieuw Indische buurt en mogelijk ook andere delen vd wijk waar voor zonnepanelen geschikte daken (platte daken) liggen.
+Op dit moment tracht *Duurzame Korrewegwijk* een project voor een groen dak & zonnepanelen installatie van de grond te krijgen (ism. *Grunneger Power*) voor huurcomplexen id Nieuw- en West- Indische buurt en mogelijk ook andere delen vd wijk waar voor zonnepanelen geschikte daken (platte daken) liggen. Voor woningen met een niet geschikt dak voor zonnepanelen, of waar ivm. kamerverhuur van de bovenverdieping eigenaar of huurder niet op eigen dak zonnepanelen kunnen nemen, kunnen panelen op daken van bedrijfspanden komen (via de postcode roos regeling).
 
 Verdere thema's zijn:
 * Afval, recycling & composteren - streven naar een afval-loze/plastic-loze wijk en meer bewoners die zelf composteren.
