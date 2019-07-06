@@ -23,7 +23,7 @@
 
 ## Educatief
 
-Lezingen/presentaties o.a. ism met Natuur & Milieufederatie
+Lezingen/presentaties o.a. ism met [Natuur & Milieufederatie](https://nmfgroningen.nl/)
 * Biodiversiteit
 * Bomenplanten (ism. bomenridders)
 
