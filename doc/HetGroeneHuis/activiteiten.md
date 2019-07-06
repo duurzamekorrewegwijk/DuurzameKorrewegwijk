@@ -3,7 +3,7 @@
 ## Diensten en activiteiten
 
 * Uitleen van tuingereedschap (bestaande activiteit van Lefier)
-* Uiteen van andere gereedschappen (zoals goede boormachine)
+* Uiteen van andere gereedschappen (zoals goede boormachine/schuurmachine)
 * Scharen slijpen
 * Gebruik van een hoge druk spuit (bijv. om tuinmeubelen schoon te maken)
 * Versnipper dienst (organisatie per binnen terrein, geen uitleen maar in de vorm van een dienst, max. 1x per jaar per binnenterrein)
