@@ -6,7 +6,7 @@
 * Uiteen van andere gereedschappen (zoals goede boormachine)
 * Scharen slijpen
 * Gebruik van een hoge druk spuit (bijv. om tuinmeubelen schoon te maken)
-* Versnipper dienst (organisatie per binnen terrein, geen uitleen maar in de vorm van een dienst)
+* Versnipper dienst (organisatie per binnen terrein, geen uitleen maar in de vorm van een dienst, max. 1x per jaar per binnenterrein)
 * Uitleen vracht bakfiets
 * Uitleen kinder bakfiets
 * Beperkte inzameling van restmaterialen tbv hergebruik
