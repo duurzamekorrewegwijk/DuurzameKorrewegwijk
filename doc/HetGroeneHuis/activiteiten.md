@@ -11,4 +11,6 @@
 * Cursus composteren en zelf compostistallatie/wormencompostbak maken
 * Repair café (Fixum)
 * Grofvuil & zwerfvuil dienst
+* Klussen dienst (mensen thuis helpen met een klusje)
+
 
