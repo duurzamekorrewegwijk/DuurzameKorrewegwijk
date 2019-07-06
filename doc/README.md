@@ -1,6 +1,7 @@
 # Documenten DUURZAME KORREWEGWIJK
 
 * [Biodiversiteit](biodiversiteit/README.md)
+* [Bomen](bomen/README.md)
 * [Composteren](composteren/README.md)
 * [Semarangstraat](semarangstraat/README.md)
 * [Korrewegwijk](korrewegwijk/README.md)
