@@ -12,7 +12,6 @@
 * Beperkte inzameling van restmaterialen tbv hergebruik
 * Inzameling composteerbaar organische materiaal
 * Uitgifte compost & zaden in Groene Week
-* Cursus composteren en zelf compostinstallatie/wormencompostbak maken
 * Repair café (Fixum)
 * Metaalbewerking (lassen, haakse slijper)
 * Houtbewerking
@@ -33,7 +32,7 @@ Lezingen/presentaties o.a. ism met Natuur & Milieufederatie
 * Fiets reperatie
 * Electrisch
 * Electronica (arduino / raspberry Pi)
-* Composteren en zelf (wormen)compostbak maken. (zie: [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)(
+* Composteren en zelf (wormen)compostbak maken. (zie: [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren))
 * Zelf windmolen bouwen van restmaterialen (bijv. ism. De Jonge Onderzoekers)
 
 ## Informatie punt Duurzaamheid
