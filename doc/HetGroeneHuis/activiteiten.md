@@ -31,7 +31,7 @@ Lezingen/presentaties o.a. ism met Natuur & Milieufederatie
 
 * Fiets reperatie
 * Electrisch
-* Electronica (arduino / raspbery Pi)
+* Electronica (arduino / raspberry Pi)
 * Zelf windmolen bouwen van restmaterialen (bijv. ism. De Jonge Onderzoekers)
 
 ## Informatie punt
