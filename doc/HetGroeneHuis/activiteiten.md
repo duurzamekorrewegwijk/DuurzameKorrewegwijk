@@ -12,6 +12,7 @@
 * Beperkte inzameling van restmaterialen tbv hergebruik
 * Inzameling composteerbaar organische materiaal
 * Uitgifte compost & zaden in Groene Week
+* Bouw en uitgifte van insecten/bijenhotels (gemaakt van rest-materiaal)
 * Repair café (Fixum)
 * Metaalbewerking (lassen, haakse slijper)
 * Houtbewerking
