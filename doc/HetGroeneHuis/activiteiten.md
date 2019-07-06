@@ -14,7 +14,7 @@
 * Uitgifte compost & zaden in Groene Week
 * Cursus composteren en zelf compostinstallatie/wormencompostbak maken
 * Repair café (Fixum)
-* Metaalbewerking (lassen, haakse slijper
+* Metaalbewerking (lassen, haakse slijper)
 * Houtbewerking
 * Grofvuil & zwerfvuil dienst
 * Klussen dienst (mensen thuis helpen met een klusje)
