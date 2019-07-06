@@ -8,9 +8,12 @@
 * Uitleen vracht bakfiets
 * Uitleen kinder bakfiets
 * Beperkte inzameling van restmaterialen tbv hergebruik
+* Inzameling composteerbaar organische materiaal/uitgifte compost
 * Cursus composteren en zelf compostinstallatie/wormencompostbak maken
 * Repair café (Fixum)
 * Grofvuil & zwerfvuil dienst
 * Klussen dienst (mensen thuis helpen met een klusje)
+* Tegel eruit/Plant erin activiteit
+* Adoptie bomen (met adoptie bordje!!!)
 
 
