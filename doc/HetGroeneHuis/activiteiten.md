@@ -10,7 +10,8 @@
 * Uitleen vracht bakfiets
 * Uitleen kinder bakfiets
 * Beperkte inzameling van restmaterialen tbv hergebruik
-* Inzameling composteerbaar organische materiaal/uitgifte compost
+* Inzameling composteerbaar organische materiaal
+* Uitgifte compost & zaden in Groene Week
 * Cursus composteren en zelf compostinstallatie/wormencompostbak maken
 * Repair café (Fixum)
 * Metaalbewerking (lassen, haakse slijper
