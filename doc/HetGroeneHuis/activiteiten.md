@@ -33,7 +33,7 @@ Lezingen/presentaties o.a. ism met [Natuur & Milieufederatie](https://nmfgroning
 * Electrisch
 * Electronica (arduino / raspberry Pi)
 * Composteren en zelf (wormen)compostbak maken. (zie: [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren))
-* Zelf windmolen bouwen van restmaterialen (bijv. ism. De Jonge Onderzoekers)
+* Zelf windmolen bouwen van restmaterialen (bijv. ism. [De Jonge Onderzoekers](https://www.djog.nl/))
 
 ## Informatie punt Duurzaamheid
 
