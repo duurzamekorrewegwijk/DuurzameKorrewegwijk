@@ -42,7 +42,7 @@ Locatie Groene Huis / Floreshuis
 * Energie coach
 * Label check
 * Zonnepanelen, postcode roos regeling (ism Grunneger Power)
-* Energie besparen / energie advies
+* Energie besparen / warmte advies
 * Energie scan (infrarood opname energie verlies)
 * etc.
 
