@@ -16,7 +16,7 @@
 * Repair café (Fixum)
 * Metaalbewerking (lassen, haakse slijper)
 * Houtbewerking
-* Grofvuil & zwerfvuil dienst
+* Grofvuil & zwerfvuil dienst & milieustraten
 * Klussen dienst (mensen thuis helpen met een klusje)
 * Tegel eruit/Plant erin activiteit
 * Adoptie bomen (met adoptie bordje!!!)
