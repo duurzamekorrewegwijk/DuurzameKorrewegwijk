@@ -35,7 +35,7 @@ Lezingen/presentaties o.a. ism met Natuur & Milieufederatie
 * Electronica (arduino / raspberry Pi)
 * Zelf windmolen bouwen van restmaterialen (bijv. ism. De Jonge Onderzoekers)
 
-## Informatie punt
+## Informatie punt Duurzaamheid
 
 Locatie Groene Huis / Floreshuis
 
