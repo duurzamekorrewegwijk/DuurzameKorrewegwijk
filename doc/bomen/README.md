@@ -2,4 +2,4 @@
 
 * [Herbebossing (afspeel lijst Youtube)](https://www.youtube.com/playlist?list=PLhBeLwLnoTFSaS8qw0BlkQDLKjd9M_xLz)
 
-* [Bomen riders](https://bomenriddersgroningen.nl/)
+* [Bomen ridders](https://bomenriddersgroningen.nl/)
