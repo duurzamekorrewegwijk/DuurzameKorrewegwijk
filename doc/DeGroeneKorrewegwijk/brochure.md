@@ -120,7 +120,9 @@ etc.
 
 ** Woonbond
 
-** GSB / kamerhuurders
+[energie bus](https://www.woonbond.nl/nieuws/lagere-energierekening-na-bezoek-energiebus)
+
+** LSVB / GSB / kamerhuurders
 
 ** Natuur- en milieufederatie
 
