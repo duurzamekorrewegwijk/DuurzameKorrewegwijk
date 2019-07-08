@@ -31,6 +31,7 @@ Lezingen/presentaties o.a. ism met [Natuur & Milieufederatie](https://nmfgroning
 ## Workshops
 
 * Fiets reperatie
+* Kleding herstel (ism. Draadkracht)
 * Electrisch
 * Electronica (arduino / raspberry Pi)
 * Composteren en zelf (wormen)compostbak maken. (zie: [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren))
