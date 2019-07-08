@@ -6,7 +6,7 @@
 * Uiteen van andere gereedschappen (zoals goede boormachine/schuurmachine)
 * Scharen slijpen
 * Gebruik van een hoge druk spuit (bijv. om tuinmeubelen schoon te maken)
-* Versnipper dienst (organisatie per binnen terrein, geen uitleen maar in de vorm van een dienst, max. 1x per jaar per binnenterrein)
+* Versnipper dienst - aabvraag per binnen terrein, **geen uitleen** (ivm. de veiligheid) maar in de vorm van een *dienst* (max. 1x per jaar per binnenterrein)
 * Uitleen vracht bakfiets
 * Uitleen kinder bakfiets
 * Beperkte inzameling van restmaterialen tbv hergebruik
@@ -34,7 +34,7 @@ Lezingen/presentaties o.a. ism met [Natuur & Milieufederatie](https://nmfgroning
 * Electrisch
 * Electronica (arduino / raspberry Pi)
 * Composteren en zelf (wormen)compostbak maken. (zie: [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren))
-* Zelf windmolen bouwen van restmaterialen (bijv. ism. [De Jonge Onderzoekers](https://www.djog.nl/))
+* Zelf bouwen van restmaterialen: een windmolen, een zonnepaneel, een solar-tracker, een parabolische trog spiegel (geconcentreerde zonthermische energie-opwekking), etc. (bijv. ism. [De Jonge Onderzoekers](https://www.djog.nl/))
 
 ## Informatie punt Duurzaamheid
 
