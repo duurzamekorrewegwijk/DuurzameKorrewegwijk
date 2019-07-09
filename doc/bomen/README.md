@@ -9,3 +9,5 @@
 * [Tien bomen planten als onderdeel afstuderen RUG of Hanze](https://www.sikkom.nl/tien-bomen-planten-als-onderdeel-afstuderen-hanze-of-rug-jeej-of-nee)
 
 * [Effect van ontbossing op klimaatverandering is groter dan gedacht](https://www.ugent.be/nl/actueel/effect-ontbossing-klimaatverandering-groot.htm)
+
+* [They’re hacking down the Amazon at the rate of one football field a minute!](https://www.cntraveller.in/story/theyre-hacking-down-the-amazon-at-the-rate-of-one-football-field-a-minute)
