@@ -11,3 +11,5 @@
 * [Effect van ontbossing op klimaatverandering is groter dan gedacht](https://www.ugent.be/nl/actueel/effect-ontbossing-klimaatverandering-groot.htm)
 
 * [They’re hacking down the Amazon at the rate of one football field a minute!](https://www.cntraveller.in/story/theyre-hacking-down-the-amazon-at-the-rate-of-one-football-field-a-minute)
+
+* [Onderzoek: herstel van bossen is in theorie genoeg om opwarming van de aarde te keren](https://www.volkskrant.nl/wetenschap/onderzoek-herstel-van-bossen-is-in-theorie-genoeg-om-opwarming-van-de-aarde-te-keren~bfc9d008)
