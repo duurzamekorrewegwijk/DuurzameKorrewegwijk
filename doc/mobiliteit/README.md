@@ -7,3 +7,5 @@ Tram zonder rails of bovenleiding
 * [De ingenieur](https://www.deingenieur.nl/artikel/autonoom-rijdende-tram-zonder-rails)
 
 * [Youtube: World's first train running on virtual tracks released](https://www.youtube.com/watch?v=Kr9-J3nOKbE)
+
+* [Accutram kan zonder spoorstaven toe](https://www.cobouw.nl/bouwbreed/nieuws/2002/04/accutram-kan-zonder-spoorstaven-toe-101227681)
