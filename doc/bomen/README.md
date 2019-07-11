@@ -15,3 +15,5 @@
 * [Onderzoek: herstel van bossen is in theorie genoeg om opwarming van de aarde te keren](https://www.volkskrant.nl/wetenschap/onderzoek-herstel-van-bossen-is-in-theorie-genoeg-om-opwarming-van-de-aarde-te-keren~bfc9d008)
 
 * [For First Time Ever, Scientists Identify How Many Trees to Plant and Where to Plant Them to Stop Climate Crisis](https://www.goodnewsnetwork.org/how-many-trees-to-plant-to-stop-climate-crisis)
+
+* [Trees for all](https://treesforall.nl/bomen-planten-in-de-parel-van-afrika)
