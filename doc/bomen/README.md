@@ -17,3 +17,5 @@
 * [For First Time Ever, Scientists Identify How Many Trees to Plant and Where to Plant Them to Stop Climate Crisis](https://www.goodnewsnetwork.org/how-many-trees-to-plant-to-stop-climate-crisis)
 
 * [Trees for all](https://treesforall.nl/bomen-planten-in-de-parel-van-afrika)
+
+* [Te weinig hout voor biomassacentrales](https://www.gelderlander.nl/arnhem/te-weinig-hout-voor-biomassacentrales~ae42c0ff)
