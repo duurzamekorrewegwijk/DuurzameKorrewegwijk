@@ -6,6 +6,8 @@
 
 * [Bouw klassieke rocket stove](https://www.youtube.com/watch?v=4TmWvLyaGdk)
 
+* [Rocket stove grill](https://www.youtube.com/watch?v=4TmWvLyaGdk)
+
 ## Composteer installatie
 
 ## Las apparaat
