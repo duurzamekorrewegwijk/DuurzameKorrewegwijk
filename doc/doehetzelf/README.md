@@ -2,6 +2,8 @@
 
 ## Rocket stove
 
+* [Rocket stove wetenschap](https://www.youtube.com/watch?v=4TmWvLyaGdk)
+
 ## Composteer installatie
 
 ## Las apparaat
