@@ -16,6 +16,8 @@
 
 * [80 ampère las-apparaat](https://www.youtube.com/watch?v=rlTvZtCKJqQ)
 
+* [Zelfbouw las-apparaat](https://www.youtube.com/watch?v=xw_uWFshFWw)
+
 ## Hout versnipperaar
 
 * [Hout versnipperaar mechanisme](https://www.youtube.com/watch?v=3WiShUSggas)
