@@ -8,7 +8,7 @@
 
 * [Rocket stove grill](https://www.youtube.com/watch?v=4TmWvLyaGdk)
 
-* [Rocket stove])https://www.youtube.com/watch?v=JQ8axWRoEtA)
+* [Rocket stove](https://www.youtube.com/watch?v=JQ8axWRoEtA)
 
 ## Composteer installatie
 
