@@ -23,3 +23,9 @@
 * [Hout versnipperaar mechanisme](https://www.youtube.com/watch?v=3WiShUSggas)
 
 * [Hout versnipperaar - zelfbouw](https://www.youtube.com/watch?v=KxvdaDIsek0)
+
+* [Plastic vernipperaar](https://www.youtube.com/watch?v=VFIPXgrk7u0)
+
+* []()
+
+* []()
