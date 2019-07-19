@@ -10,7 +10,7 @@
 
 ## Composteer installatie
 
-* [Composteren](../compostereren/README.md)
+* [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
 
 ## Las apparaat
 
