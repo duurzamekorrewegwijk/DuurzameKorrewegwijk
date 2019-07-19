@@ -8,4 +8,5 @@
 * [Korrewegwijk](korrewegwijk/README.md)
 * [DeGroeneKorrewegwijk](DeGroeneKorrewegwijk/README.md)
 * [HetGroeneHuis](HetGroeneHuis/README.md)
+* [Doe-het-zelf](doehetzelf/README.md)
 
