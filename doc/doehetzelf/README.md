@@ -4,6 +4,8 @@
 
 * [Rocket stove wetenschap](https://www.youtube.com/watch?v=4TmWvLyaGdk)
 
+* [Bouw klassieke rocket stove](https://www.youtube.com/watch?v=4TmWvLyaGdk)
+
 ## Composteer installatie
 
 ## Las apparaat
