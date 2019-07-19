@@ -10,6 +10,8 @@
 
 ## Composteer installatie
 
+* [Composteren](../compostereren/README.md)
+
 ## Las apparaat
 
 * [Punt las-apparaat](https://www.youtube.com/watch?v=4q4oMVtW4FI)
