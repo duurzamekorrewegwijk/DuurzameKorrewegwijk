@@ -5,3 +5,5 @@
 * [De (on)haalbaarheid van gasloos wonen](https://www.duurzaamnieuws.nl/de-onhaalbaarheid-van-gasloos-wonen/)
 
 * [Hoe realistisch is gasloos wonen?](https://www.zelfenergieproduceren.nl/nieuws/hoe-realistisch-is-gasloos-wonen/)
+
+* ['Gasgebruiker moet straks fors meer gaan betalen'](https://www.rtlnieuws.nl/nieuws/nederland/artikel/4249321/gasgebruiker-moet-straks-fors-meer-gaan-betalen)
