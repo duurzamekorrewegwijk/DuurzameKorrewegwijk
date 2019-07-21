@@ -16,7 +16,7 @@ Niettemin is het wel een streven om materialen die nu nog als afval worden aange
 
 * Composteerbaar
 
-Composteerbaar organisch materiaal kan worden verwerkt tot compost via compost-installaties en wormen-compost bakken. 
+Composteerbaar organisch materiaal kan worden verwerkt tot compost via compost-installaties en wormen-compost bakken. Zie: [composteren](../composteren/README.md)
 
 * Vetten en oliën
 
