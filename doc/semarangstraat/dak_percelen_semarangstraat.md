@@ -1,6 +1,6 @@
 # FOTO'S VAN DAK PERCELEN SEMARANGSTRAAT
 
-![Foto 1](img/IMG_9568.JPG)
+![Foto 1](../../img/IMG_9568.JPG)
 
 ![Foto 2](img/IMG_9569.JPG)
 
