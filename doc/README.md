@@ -7,6 +7,6 @@
 * [Semarangstraat](semarangstraat/README.md)
 * [Korrewegwijk](korrewegwijk/README.md)
 * [DeGroeneKorrewegwijk](DeGroeneKorrewegwijk/README.md)
-* [HetGroeneuis](groenhuis/README.md)
+* [Groenhuis](groenhuis/README.md)
 * [Doe-het-zelf](doehetzelf/README.md)
 
