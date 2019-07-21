@@ -21,3 +21,6 @@
 * [Trees for all](https://treesforall.nl/bomen-planten-in-de-parel-van-afrika)
 
 * [Te weinig hout voor biomassacentrales](https://www.gelderlander.nl/arnhem/te-weinig-hout-voor-biomassacentrales~ae42c0ff)
+
+* [Burned: are trees the new coal?](https://www.linktv.org/shows/burned-are-trees-the-new-coal/episodes/burned-are-trees-the-new-coal)
+
