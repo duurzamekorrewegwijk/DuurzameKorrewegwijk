@@ -25,7 +25,7 @@ Verdere thema's zijn:
 
 Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & gemeentelijk beleid dreigt te worden), hebben we een pagina aangemaakt met links naar artikelen over gasloos met de voors- en tegens van gasloos & alternatieven.
 
-* [gasloos](gasloos/README.md)
+* [Discussie over 'gasloos'](gasloos/README.md)
 
 ## DOCUMENTEN:
 
