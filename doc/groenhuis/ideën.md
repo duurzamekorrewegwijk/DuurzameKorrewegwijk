@@ -49,3 +49,6 @@ Locatie Groenhuis / Floreshuis
 * Energie scan (infrarood opname energie verlies)
 * etc.
 
+## Doe-het-zelf
+
+* [Doe-het-zelf](../doehetzelf/README.md)
