@@ -10,6 +10,11 @@ Niettemin is het wel een streven om materialen die nu nog als afval worden aange
 
 ## ONDERDELEN:
 
+### Gebruiksvoorwerpen
+
+Alle gebruiksvoorwerpen die nog herstelbaar zijn naar de oorspronkelijke functie kunnen hersteld en gerepareerd worden. 
+
+Als dat niet meer kan, kunnen er nog onderdelen worden uitgehaald voor gebruik in andere toepassingen. 
 ### Organisch
 
 * Composteerbaar
@@ -24,20 +29,12 @@ Vettern en oliën kunnen worden verwerkt tot bio-brandstoffen.
 
 * Ander organisch restmateriaal
 
-### Gebruiksvoorwerpen
-
-Alle gebruiksvoorwerpen die nog herstelbaar zijn naar de oorspronkelijke functie kunnen hersteld en gerepareerd worden. 
-
-Als dat niet meer kan, kunnen er nog onderdelen worden uitgehaald voor gebruik in andere toepassingen. 
-
-### Anorganisch
-
-* Plastics
+### Plastics
 
 Per soort inzamelen, versnipperen en extruderen tot nieuwe plastic voorwerpen. 
 
-* Blik
+### Blik
 
-* Hout
+### Hout
 
 
