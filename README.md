@@ -27,11 +27,11 @@ Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & g
 
 * [Discussie over 'gasloos'](gasloos/README.md)
 
-## DOCUMENTEN:
+## DOCUMENTEN
 
 [documentatie](doc/README.md)
 
-## BIJDRAGEN:
+## BIJDRAGEN
 
 Wil je je eigen ideën hier kwijt, reageren/becommentariëren, stuur dan een mail naar:
 
