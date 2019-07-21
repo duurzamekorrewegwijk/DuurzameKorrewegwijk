@@ -12,4 +12,4 @@
 
 ## Warmte netten
 
-* [warmtenetten](doc/warmtenet/README.md)
+* [warmtenetten](../warmtenet/README.md)
