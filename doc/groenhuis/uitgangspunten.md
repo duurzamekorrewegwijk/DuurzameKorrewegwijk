@@ -51,7 +51,7 @@ Elke week een afval inzameling met een electrisch wagentje dat huishoudelijk afv
 
 * diverse soorten metaal/blik. 
 
-Naast de inzameling aan de straat zijn er bij de winkel-centra afval inzamelings containers voor de verschillende anorganische bestanddelen (plastic, blik).
+Naast de inzameling aan de straat zijn er bij de winkel-centra aanvullende afval inzamelings containers voor de verschillende anorganische bestanddelen (plastic, blik).
 
 Compost installaties in de wijk worden gedistribueerd om zoveel mogelijk composteerbaar organisch materiaal zelf te composteren. Kleine eenheden die op balkon of tuin neergezet kunnen worden, grotere voor bijv. gezamelijk gebruik op binnenterrein of op openbare lokaties.
 
