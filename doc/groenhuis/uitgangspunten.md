@@ -24,7 +24,7 @@ Vettern en oliën kunnen worden verwerkt tot bio-brandstoffen.
 
 * Ander organisch restmateriaal
 
-## Gebruiksvoorwerpen
+### Gebruiksvoorwerpen
 
 Alle gebruiksvoorwerpen die nog herstelbaar zijn naar de oorspronkelijke functie kunnen hersteld en gerepareerd worden. 
 
