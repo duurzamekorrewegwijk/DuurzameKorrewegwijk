@@ -18,6 +18,13 @@ Verdere thema's zijn:
 * Groene gevels, groene tegels en groene daken van gebouwen en bijgebouwen.
 * Zonnepanelen op zoveel mogelijk gebouwen (woningen en bedrijfsgebouwen)
 
+Discussie:
+
+Omdat het 'gaslosos' beleid nu volop in discussie is (en binnenkort landelijk & gemeentelijk beleid dreigt te worden), hebben we een pagina aangemaakt met links naar artikelen over gasloos met de voors- en tegens van gasloos & alternatieven.
+
+* [gasloos](gasloos/README.md)
+
+
 DOCUMENTEN:
 
 [documentatie](doc/README.md)
