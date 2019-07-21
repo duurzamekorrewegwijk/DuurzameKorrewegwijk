@@ -1,4 +1,4 @@
-# Het Groene Huis
+# Het Groenhuis
 
 Voormalige onderhoudswerkplaats van Lefier aan de Madoerastraat wordt omgezet in het Groene Huis met activiteiten voor bewoners.
 
