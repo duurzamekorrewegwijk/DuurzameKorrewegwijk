@@ -31,24 +31,26 @@ Lezingen/presentaties o.a. ism met [Natuur & Milieufederatie](https://nmfgroning
 
 ## Workshops
 
-* Fiets reperatie
+* Fiets reperatie - zelf band plakken, ketting vervangen/schoonmaken, etc.
 * Kleding herstel (ism. Draadkracht)
-* Electrisch
-* Electronica (arduino / raspberry Pi)
+* Electrisch - alledaags reperatie van electr. apparaten.
+* Electronica (arduino / raspberry Pi) - jongeren kennis laten maken met electronica/programmeren - zelf een robot bouwen
 * Composteren en zelf (wormen)compostbak maken. (zie: [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren))
-* Zelf bouwen van restmaterialen: een windmolen, een zonnepaneel, een solar-tracker, een parabolische trog spiegel (geconcentreerde zonthermische energie-opwekking), etc. (bijv. ism. [De Jonge Onderzoekers](https://www.djog.nl/))
+* Zelf bouwen van restmaterialen: een windmolen, een zonnepaneel etc. (bijv. ism. [De Jonge Onderzoekers](https://www.djog.nl/))
 
 ## Informatie punt Duurzaamheid
 
 Locatie Groenhuis / Floreshuis
 
 * Energie coach
-* Label check
+* Label check (per 2020 worden label certificering veel duurder)
 * Zonnepanelen, postcode roos regeling (ism [Grunneger Power](https://grunnegerpower.nl/))
 * Energie besparen / warmte advies
 * Energie scan (infrarood opname energie verlies)
 * etc.
 
 ## Doe-het-zelf
+
+Doe het zelf activiteiten. 
 
 * [Doe-het-zelf](../doehetzelf/README.md)
