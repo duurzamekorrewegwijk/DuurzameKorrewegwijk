@@ -2,7 +2,7 @@
 
 ## Aardbevingen vs. klimaat probleem
 
-* [Aardbevingen vs. klimaat](aardbeingen-klimaat.pdf)
+* [Aardbevingen vs. klimaat](aardbevingen-klimaat.pdf)
 
 ## Media artikelen over gasloos
 
