@@ -24,3 +24,5 @@
 
 * [Burned: are trees the new coal?](https://www.linktv.org/shows/burned-are-trees-the-new-coal/episodes/burned-are-trees-the-new-coal)
 
+* [Cities are planting more trees to fight climate change and improve healthy living](https://www.weforum.org/agenda/2018/12/cities-are-planting-more-trees-to-curb-wild-weather-and-boost-healthy-living-ec92b137-4610-4871-a341-0c10ea1b3954)
+
