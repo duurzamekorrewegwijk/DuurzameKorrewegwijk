@@ -21,6 +21,7 @@
 * Tegel eruit/Plant erin activiteit
 * Adoptie bomen (met adoptie bordje!!!)
 * Plastic inzameling & recycling (zie: [precious plastic](https://preciousplastic.com/))
+* Inzameling oud brood om er energie van te maken ([Rotterdammers laten 2000 led-lampen branden op ingezameld oud brood](https://www.ad.nl/rotterdam/rotterdammers-laten-2000-led-lampen-branden-op-ingezameld-oud-brood~a5fa9021/))
 
 
 ## Educatief
