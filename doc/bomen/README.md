@@ -31,3 +31,5 @@
 * [Ingezonden brief: Massale bomenkap bedreigt Nederlands bos](https://www.laatmijstaan.nl/lezersberichten/ingezonden-brief-massale-bomenkap-bedreigt-nederlands-bos/)
 
 * [In Nederland een boom planten voor je CO2-uitstoot. Met dit plan moet dat straks mogelijk zijn](https://decorrespondent.nl/5999/in-nederland-een-boom-planten-voor-je-co2-uitstoot-met-dit-plan-moet-dat-straks-mogelijk-zijn/1817668786703-38fabfc9)
+
+* [De poolcirkel staat (deels) in brand, wetenschappers maken zich zorgen](https://nos.nl/artikel/2295248-de-poolcirkel-staat-deels-in-brand-wetenschappers-maken-zich-zorgen.html)
