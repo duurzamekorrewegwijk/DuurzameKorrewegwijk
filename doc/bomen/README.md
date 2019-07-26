@@ -26,5 +26,7 @@
 
 * [Cities are planting more trees to fight climate change and improve healthy living](https://www.weforum.org/agenda/2018/12/cities-are-planting-more-trees-to-curb-wild-weather-and-boost-healthy-living-ec92b137-4610-4871-a341-0c10ea1b3954)
 
+* [Alles over CO2-compensatie](https://www.zaailingen.com/alles-over-co2-compensatie/)
+
 * [Ingezonden brief: Massale bomenkap bedreigt Nederlands bos](https://www.laatmijstaan.nl/lezersberichten/ingezonden-brief-massale-bomenkap-bedreigt-nederlands-bos/)
 
