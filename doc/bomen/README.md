@@ -34,4 +34,4 @@
 
 * [De poolcirkel staat (deels) in brand, wetenschappers maken zich zorgen](https://nos.nl/artikel/2295248-de-poolcirkel-staat-deels-in-brand-wetenschappers-maken-zich-zorgen.html)
 
-* [https://www.theguardian.com/world/2019/jul/25/amazonian-rainforest-near-unrecoverable-tipping-point](https://www.theguardian.com/world/2019/jul/25/amazonian-rainforest-near-unrecoverable-tipping-point)
+* [Amazon deforestation accelerating towards unrecoverable 'tipping point'](https://www.theguardian.com/world/2019/jul/25/amazonian-rainforest-near-unrecoverable-tipping-point)
