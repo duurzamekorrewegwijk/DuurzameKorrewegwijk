@@ -35,3 +35,5 @@
 * [De poolcirkel staat (deels) in brand, wetenschappers maken zich zorgen](https://nos.nl/artikel/2295248-de-poolcirkel-staat-deels-in-brand-wetenschappers-maken-zich-zorgen.html)
 
 * [Amazon deforestation accelerating towards unrecoverable 'tipping point'](https://www.theguardian.com/world/2019/jul/25/amazonian-rainforest-near-unrecoverable-tipping-point)
+
+* [Arctic wildfires: What's caused huge swathes of flames to spread?](https://www.bbc.com/news/world-europe-49125391)
