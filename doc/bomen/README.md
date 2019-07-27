@@ -37,3 +37,5 @@
 * [Amazon deforestation accelerating towards unrecoverable 'tipping point'](https://www.theguardian.com/world/2019/jul/25/amazonian-rainforest-near-unrecoverable-tipping-point)
 
 * [Arctic wildfires: What's caused huge swathes of flames to spread?](https://www.bbc.com/news/world-europe-49125391)
+
+* [Iceland’s Long Road to Reforestation](https://www.geolounge.com/icelands-long-road-to-reforestation/)
