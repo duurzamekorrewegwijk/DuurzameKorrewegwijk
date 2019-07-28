@@ -8,4 +8,6 @@
 
 * [Mike Biddle: We can recycle plastic](https://www.youtube.com/watch?v=RD07GkmM2fc)
 
+* [Plastic Ocean](https://www.youtube.com/watch?v=ju_2NuK5O-E)
+
 * [Ocean cleanup System 001 - First Mission](https://www.youtube.com/watch?v=D7qNRgezOBU)
