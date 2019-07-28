@@ -7,3 +7,5 @@
 * [A Plastic Wave - A documentary film on plastic pollution](https://www.youtube.com/watch?v=9-dpv2xbFyk)
 
 * [How Are Aluminium Cans Recycled? | How Do They Do It?](https://www.youtube.com/watch?v=KmMP67eC2tg)
+
+* [This African city is turning a mountain of trash into energy](https://www.weforum.org/agenda/2018/05/addis-ababa-reppie-trash-into-energy)
