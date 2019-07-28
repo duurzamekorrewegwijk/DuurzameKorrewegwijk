@@ -9,3 +9,5 @@
 * [How Are Aluminium Cans Recycled? | How Do They Do It?](https://www.youtube.com/watch?v=KmMP67eC2tg)
 
 * [This African city is turning a mountain of trash into energy](https://www.weforum.org/agenda/2018/05/addis-ababa-reppie-trash-into-energy)
+
+* [Why your recyclables might have no place to go](https://www.youtube.com/watch?v=UAwCK--pmZ0)
