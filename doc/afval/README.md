@@ -6,4 +6,4 @@
 
 * [A Plastic Wave - A documentary film on plastic pollution](https://www.youtube.com/watch?v=9-dpv2xbFyk)
 
-* [https://www.youtube.com/watch?v=KmMP67eC2tg](https://www.youtube.com/watch?v=KmMP67eC2tg)
+* [How Are Aluminium Cans Recycled? | How Do They Do It?](https://www.youtube.com/watch?v=KmMP67eC2tg)
