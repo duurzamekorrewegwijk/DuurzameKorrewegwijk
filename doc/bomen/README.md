@@ -39,3 +39,5 @@
 * [Arctic wildfires: What's caused huge swathes of flames to spread?](https://www.bbc.com/news/world-europe-49125391)
 
 * [Iceland’s Long Road to Reforestation](https://www.geolounge.com/icelands-long-road-to-reforestation/)
+
+* [Researchers map symbiotic relationships between trees and microbes worldwide](https://phys.org/news/2019-05-symbiotic-relationships-trees-microbes-worldwide.html)
