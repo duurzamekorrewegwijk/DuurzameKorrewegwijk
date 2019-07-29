@@ -41,3 +41,5 @@
 * [Iceland’s Long Road to Reforestation](https://www.geolounge.com/icelands-long-road-to-reforestation/)
 
 * [Researchers map symbiotic relationships between trees and microbes worldwide](https://phys.org/news/2019-05-symbiotic-relationships-trees-microbes-worldwide.html)
+
+* [Ontbossing in de Amazone: Bomen maken plaats voor mijnen en veeteelt](https://www.nu.nl/weekend/5969815/ontbossing-in-de-amazone-bomen-maken-plaats-voor-mijnen-en-veeteelt.html)
