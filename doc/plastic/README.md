@@ -13,3 +13,5 @@
 * [Ocean cleanup System 001 - First Mission](https://www.youtube.com/watch?v=D7qNRgezOBU)
 
 * [France's plastic revolution | earthrise](https://www.youtube.com/watch?v=4Bzh5tbTTdc)
+
+* [Plastic in paradise: the battle for the Galápagos Islands' future](https://www.youtube.com/watch?v=aS8IBxi2xJE)
