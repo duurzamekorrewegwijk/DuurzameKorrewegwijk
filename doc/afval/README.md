@@ -15,3 +15,5 @@
 * [Chemical recycling could be an industry game changer](https://www.youtube.com/watch?v=5K-ZvtgRz9o)
 
 * [How This Town Produces No Trash](https://www.youtube.com/watch?v=eym10GGidQU)
+
+* [Takeout creates a lot of trash. It doesn't have to.](https://www.youtube.com/watch?v=5qx2WFpNTPs)
