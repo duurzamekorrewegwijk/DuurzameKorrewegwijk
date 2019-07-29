@@ -21,3 +21,5 @@
 * [Are these the most over-packaged products? (Marketplace)](https://www.youtube.com/watch?v=zAsyVF5hb2U)
 
 * [The World's Dirtiest River | Unreported World](https://www.youtube.com/watch?v=AkSXB-lRAp0)
+
+* [This NYC Store is an Environmentalist's Wonderland](https://www.youtube.com/watch?v=wZMmG7Bkvxk)
