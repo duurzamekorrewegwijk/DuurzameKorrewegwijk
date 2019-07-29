@@ -11,3 +11,5 @@
 * [Plastic Ocean](https://www.youtube.com/watch?v=ju_2NuK5O-E)
 
 * [Ocean cleanup System 001 - First Mission](https://www.youtube.com/watch?v=D7qNRgezOBU)
+
+* [France's plastic revolution | earthrise](https://www.youtube.com/watch?v=4Bzh5tbTTdc)
