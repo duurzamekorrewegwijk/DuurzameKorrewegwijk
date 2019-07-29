@@ -49,3 +49,5 @@
 * ['Plant 1.000.000.000.000 bomen om klimaatverandering aan te pakken'](https://nos.nl/artikel/2292132-plant-1-000-000-000-000-bomen-om-klimaatverandering-aan-te-pakken.html)
 
 * [Adding 1 billion hectares of forest could help check global warming](https://www.sciencemag.org/news/2019/07/adding-1-billion-hectares-forest-could-help-check-global-warming)
+
+* [China’s Investment, Africa’s Forest](https://www.youtube.com/watch?v=_fPIfA8OPaM)
