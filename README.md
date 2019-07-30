@@ -1,8 +1,12 @@
 # Documenten en bestanden archief *Duurzame Korrewegwijk*
 
+![wijkbakfiets](img/wijkbakfiets.jpg)
+
+---
+
 *Als het planten van bomen even winstgevend was als het produceren van wapens, dan zag de wereld groen in plaats van rot* (vrij naar Henri de Wolff, oprichter Forma Actua)
 
-![wijkbakfiets](img/wijkbakfiets.jpg)
+---
 
 # Duurzame Korrewegwijk
 
