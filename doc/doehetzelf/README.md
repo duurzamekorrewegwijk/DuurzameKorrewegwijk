@@ -34,6 +34,8 @@
 
 * [самодельный тандыр](https://www.youtube.com/watch?v=Xe4dqfz8_-k)
 
+* [Как выбрать тандыр? Обзор тандыров и аксессуаров.](https://www.youtube.com/watch?v=GwCvI3QqgGY)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
