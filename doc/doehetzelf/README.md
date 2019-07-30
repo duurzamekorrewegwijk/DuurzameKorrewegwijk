@@ -70,3 +70,5 @@
 * [Make Dollar Store Soap {easiest beginner soap recipe} S2W36](https://www.youtube.com/watch?v=qWnqXTqZTvU)
 
 * [Essential Soap: How to Make Soap For the First Time from scratch. Easy Recipe, How to Mix Lye](https://www.youtube.com/watch?v=rHJZNTuQDEg)
+
+* [DIY Dollar Tree Mocha Soap - Easy Beginner Soap Recipe](https://www.youtube.com/watch?v=Dkt5b25GhKI)
