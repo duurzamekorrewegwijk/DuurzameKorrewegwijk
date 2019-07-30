@@ -82,3 +82,7 @@
 ## Pinda, amandel en chocolade pasta
 
 * [How to Make Nut Butter » Peanut, Almond & Chocolate Hazelnut](https://www.youtube.com/watch?v=1D8Oc0ArtD8)
+
+## Gember bier
+
+* [Ginger Beer homemade](https://www.youtube.com/watch?v=g4sqMYM9vSI)
