@@ -28,6 +28,8 @@
 
 * [How To Make Traditional Tandoor | Home Made Mud Tandoor | Primitive Technology Clay Tandoor](https://www.youtube.com/watch?v=zSCNQ0bGolY)
 
+* [Making a home made Tandoor from flower pots](https://www.youtube.com/watch?v=uYdKZKwIedQ)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
