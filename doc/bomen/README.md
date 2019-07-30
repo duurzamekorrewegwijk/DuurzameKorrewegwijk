@@ -56,3 +56,5 @@
 
 * [Ethiopia plants more than 350 million trees in 12 hours](https://edition.cnn.com/2019/07/29/africa/ethiopia-plants-350-million-trees-intl-hnk/index.html)
 
+* [Hoe Bolsenara's bulldozers de indianen uit hun gebied verdrijft](https://www.groene.nl/artikel/de-witte-man-op-rooftocht)
+
