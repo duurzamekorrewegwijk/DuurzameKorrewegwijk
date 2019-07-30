@@ -1,5 +1,7 @@
 # Doe-het-zelf
 
+Allerlei voorbeelden van doe-het-zelf projecten.
+
 ## Rocket stove
 
 * [Rocket stove wetenschap](https://www.youtube.com/watch?v=4TmWvLyaGdk)
