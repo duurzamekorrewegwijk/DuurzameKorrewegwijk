@@ -2,6 +2,11 @@
 
 Allerlei voorbeelden van doe-het-zelf projecten.
 
+
+## Olie vat hergebruik
+
+* [35 Amazing Uses for Metal 55 Gallon Oil Drums](https://www.youtube.com/watch?v=9DoFBadc_sY)
+
 ## Rocket stove
 
 * [Rocket stove wetenschap](https://www.youtube.com/watch?v=4TmWvLyaGdk)
