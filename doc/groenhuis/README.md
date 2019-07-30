@@ -7,3 +7,5 @@ Voormalige onderhoudswerkplaats van Lefier aan de Madoerastraat wordt omgezet in
 * [Doe-het-zelf projecten](../doehetzelf/README.md)
 
 * [BBQ set](bbqset.pdf)
+
+* [In te zamelen materialen voor doe-het-zelf projecten](in_te_zamelen_materialen.md)
