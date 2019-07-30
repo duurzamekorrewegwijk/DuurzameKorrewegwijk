@@ -51,3 +51,6 @@
 * [Adding 1 billion hectares of forest could help check global warming](https://www.sciencemag.org/news/2019/07/adding-1-billion-hectares-forest-could-help-check-global-warming)
 
 * [China’s Investment, Africa’s Forest](https://www.youtube.com/watch?v=_fPIfA8OPaM)
+
+* [Amazon Deforestation Rate Hits 3 Football Fields Per Minute, Data Confirms](https://www.ecowatch.com/amazon-deforestation-unrecoverable-tipping-point-2639358982.html)
+
