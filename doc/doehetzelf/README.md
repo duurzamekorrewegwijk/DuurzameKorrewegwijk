@@ -38,3 +38,7 @@
 ## Plastic recycling
 
 * [Precious plastic](https://preciousplastic.com/)
+
+## Zeep maken
+
+* [Make Dollar Store Soap {easiest beginner soap recipe} S2W36](https://www.youtube.com/watch?v=qWnqXTqZTvU)
