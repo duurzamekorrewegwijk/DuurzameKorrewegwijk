@@ -10,6 +10,8 @@
 
 * [Rocket stove](https://www.youtube.com/watch?v=JQ8axWRoEtA)
 
+* [How does a Rocket Oven Work?](https://www.youtube.com/watch?v=DhMeg3VUFWs)
+
 ## Barbeque / grill
 
 * [Two BBQs made from old hot water boilers](https://www.youtube.com/watch?v=OCo_327N1TQ)
