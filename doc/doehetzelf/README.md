@@ -59,6 +59,10 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [Zelfbouw las-apparaat](https://www.youtube.com/watch?v=xw_uWFshFWw)
 
+## Metaal smelters
+
+* [Melting Cans With The Mini Metal Foundry](https://www.youtube.com/watch?v=lSoWxG30rb0)
+
 ## Hout/plastic versnipperaar
 
 * [Hout versnipperaar mechanisme](https://www.youtube.com/watch?v=3WiShUSggas)
