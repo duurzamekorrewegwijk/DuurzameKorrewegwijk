@@ -20,3 +20,8 @@ In te zamelen materialen voor Groenhuis / doe-het-zelf projecten. Zie [doe-het-z
 
 * Grill / rooster
 
+## Voor composterings installaties
+
+* Oud hout / pallet hout
+
+* Plastic bakken, dozen of emmers
