@@ -12,7 +12,7 @@
 
 * [How does a Rocket Oven Work?](https://www.youtube.com/watch?v=DhMeg3VUFWs)
 
-## Barbeque / grill
+## Barbeque / grill / tandoori
 
 * [Barrel Boy Barbecue - How to build an Oil Drum Barrel BBQ](https://www.youtube.com/watch?v=xqwAA80fflI)
 
@@ -23,6 +23,8 @@
 * [Cilindro parrillero peruano](https://www.youtube.com/watch?v=fLjswG1o83w)
 
 * [exelente parrilla de tambor unica con tapa corrediza.primero en ventas el ultimo mes en mercadolibre](https://www.youtube.com/watch?v=cDUzsh-0KI4)
+
+* [Tan Boy - How to build a DIY Tandoor Oven at home](https://www.youtube.com/watch?v=iFzu6sYxeYE)
 
 ## Composteer installatie
 
