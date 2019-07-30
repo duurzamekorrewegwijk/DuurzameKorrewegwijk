@@ -26,6 +26,8 @@
 
 * [Tan Boy - How to build a DIY Tandoor Oven at home](https://www.youtube.com/watch?v=iFzu6sYxeYE)
 
+* [How To Make Traditional Tandoor | Home Made Mud Tandoor | Primitive Technology Clay Tandoor](https://www.youtube.com/watch?v=zSCNQ0bGolY)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
