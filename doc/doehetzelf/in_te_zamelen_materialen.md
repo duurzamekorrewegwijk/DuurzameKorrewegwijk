@@ -18,5 +18,5 @@ In te zamelen materialen voor Groenhuis / doe-het-zelf projecten
 
 * Metalen platen en balken
 
-* Grill 
+* Grill / rooster
 
