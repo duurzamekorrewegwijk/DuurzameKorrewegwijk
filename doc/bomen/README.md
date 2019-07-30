@@ -58,3 +58,4 @@
 
 * [Hoe Bolsenara's bulldozers de indianen uit hun gebied verdrijft](https://www.groene.nl/artikel/de-witte-man-op-rooftocht)
 
+* [Europese bedrijven dragen bij aan het kappen van Amazonewoud voor sojaproductie](https://www.duurzaam-ondernemen.nl/europese-bedrijven-dragen-aan-kappen-amazonewoud-sojaproductie)
