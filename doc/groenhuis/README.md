@@ -5,3 +5,5 @@ Voormalige onderhoudswerkplaats van Lefier aan de Madoerastraat wordt omgezet in
 * [Ideëen voor activiteiten/diensten in het Groene Huis](ideën.md)
 
 * [Doe-het-zelf projecten](../doehetzelf/README.md)
+
+* [BBQ set](bbqset.pdf)
