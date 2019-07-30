@@ -12,7 +12,7 @@
 
 ## Barbeque / grill
 
-* [https://www.youtube.com/watch?v=OCo_327N1TQ](https://www.youtube.com/watch?v=OCo_327N1TQ)
+* [Two BBQs made from old hot water boilers](https://www.youtube.com/watch?v=OCo_327N1TQ)
 
 * [Meat grill & stove (고기불판 & 난로)](https://www.youtube.com/watch?v=pyltHJi6aiI)
 
