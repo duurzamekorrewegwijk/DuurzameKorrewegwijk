@@ -30,6 +30,8 @@
 
 * [Making a home made Tandoor from flower pots](https://www.youtube.com/watch?v=uYdKZKwIedQ)
 
+* [How to Make A Tandoori Oven for Under $100 (DIY)](https://www.youtube.com/watch?v=dfHKmt10JZY)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
