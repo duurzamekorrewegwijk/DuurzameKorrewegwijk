@@ -4,6 +4,8 @@ In te zamelen materialen voor Groenhuis / doe-het-zelf projecten
 
 ## Alles wat repareerbaar is
 
+* Stoelen, tafels, etc.
+
 ## Voor een  bbq tafel set
 
 * Planken en balken voor tafelblad
