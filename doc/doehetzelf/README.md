@@ -74,3 +74,9 @@
 * [DIY Dollar Tree Mocha Soap - Easy Beginner Soap Recipe](https://www.youtube.com/watch?v=Dkt5b25GhKI)
 
 * [How To Make Liquid Soap (Updated Version 2)](https://www.youtube.com/watch?v=7-SZRQ45e5Y)
+
+## Plantaardige melk
+
+## Pinda, amandel en chocolade pasta
+
+* [How To Make Plant Based Milks » Almond, oat & rice](https://www.youtube.com/watch?v=DIvE_ipxoFc)
