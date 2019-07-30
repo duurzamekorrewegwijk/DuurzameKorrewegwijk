@@ -1,6 +1,6 @@
 # IN TE ZAMELEN MATERIALEN
 
-In te zamelen materialen voor Groenhuis / doe-het-zelf projecten
+In te zamelen materialen voor Groenhuis / doe-het-zelf projecten. Zie [doe-het-zelf](README.md)
 
 ## Alles wat repareerbaar is of waarvan onderdelen bruikbaar zijn
 
