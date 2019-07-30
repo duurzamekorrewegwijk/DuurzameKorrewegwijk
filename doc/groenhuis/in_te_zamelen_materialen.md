@@ -4,7 +4,7 @@ In te zamelen materialen voor Groenhuis / doe-het-zelf projecten. Zie [doe-het-z
 
 ## Alles wat repareerbaar is of waarvan onderdelen bruikbaar zijn
 
-* Stoelen, tafels, etc.
+* Stoelen, tafels, apparaten, etc.
 
 ## Voor een  bbq tafel set
 
