@@ -16,7 +16,7 @@
 
 * [Meat grill & stove (고기불판 & 난로)](https://www.youtube.com/watch?v=pyltHJi6aiI)
 
-* [https://www.youtube.com/watch?v=fLjswG1o83w](https://www.youtube.com/watch?v=fLjswG1o83w)
+* [Cilindro parrillero peruano](https://www.youtube.com/watch?v=fLjswG1o83w)
 
 ## Composteer installatie
 
