@@ -42,3 +42,5 @@
 ## Zeep maken
 
 * [Make Dollar Store Soap {easiest beginner soap recipe} S2W36](https://www.youtube.com/watch?v=qWnqXTqZTvU)
+
+* [Essential Soap: How to Make Soap For the First Time from scratch. Easy Recipe, How to Mix Lye](https://www.youtube.com/watch?v=rHJZNTuQDEg)
