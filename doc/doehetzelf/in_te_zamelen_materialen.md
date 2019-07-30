@@ -10,6 +10,8 @@ In te zamelen materialen voor Groenhuis / doe-het-zelf projecten
 
 * Planken en balken voor tafelblad
 
+* Oude kleden
+
 ## Voor een bbq / grill / rocket-stove / tandoori
 
 * Olie vaten
