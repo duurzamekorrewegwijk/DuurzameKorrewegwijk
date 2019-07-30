@@ -2,7 +2,7 @@
 
 In te zamelen materialen voor Groenhuis / doe-het-zelf projecten
 
-## Alles wat repareerbaar is
+## Alles wat repareerbaar is of waarvan onderdelen bruikbaar zijn
 
 * Stoelen, tafels, etc.
 
