@@ -2,4 +2,4 @@
 
 ## Initiatieven tegen voedselverspilling
 
-* [Freecafé])https://freecafe.nl/)
+* [Freecafé](https://freecafe.nl/)
