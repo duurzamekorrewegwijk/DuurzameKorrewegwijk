@@ -3,9 +3,11 @@
 Allerlei voorbeelden van doe-het-zelf projecten.
 
 
-## Olie vat hergebruik
+## Olie vat (metaal) of plastic vat hergebruik
 
 * [35 Amazing Uses for Metal 55 Gallon Oil Drums](https://www.youtube.com/watch?v=9DoFBadc_sY)
+
+* [30 Amazing Uses for Plastic 55 Gallon Drums](https://www.youtube.com/watch?v=QuAoi5o2AgQ)
 
 ## Rocket stove
 
