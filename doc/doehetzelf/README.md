@@ -16,6 +16,10 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 ## Barbeque / grill / tandoori
 
+* [HOW TO BUILD A BARREL BBQ/SMOKER (PART 1)](https://www.youtube.com/watch?v=mJhz0JfJ2KY)
+
+* [HOW TO BUILD A BARREL BBQ/SMOKER (PART 2)](https://www.youtube.com/watch?v=Pmr_cpdCsdw)
+
 * [Barrel Boy Barbecue - How to build an Oil Drum Barrel BBQ](https://www.youtube.com/watch?v=xqwAA80fflI)
 
 * [Two BBQs made from old hot water boilers](https://www.youtube.com/watch?v=OCo_327N1TQ)
