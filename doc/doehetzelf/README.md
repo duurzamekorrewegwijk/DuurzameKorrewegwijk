@@ -77,6 +77,8 @@
 
 ## Plantaardige melk
 
+* [How To Make Plant Based Milks » Almond, oat & rice](https://www.youtube.com/watch?v=DIvE_ipxoFc)
+
 ## Pinda, amandel en chocolade pasta
 
-* [How To Make Plant Based Milks » Almond, oat & rice](https://www.youtube.com/watch?v=DIvE_ipxoFc)
+* [How to Make Nut Butter » Peanut, Almond & Chocolate Hazelnut](https://www.youtube.com/watch?v=1D8Oc0ArtD8)
