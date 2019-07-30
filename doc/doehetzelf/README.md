@@ -32,6 +32,8 @@
 
 * [How to Make A Tandoori Oven for Under $100 (DIY)](https://www.youtube.com/watch?v=dfHKmt10JZY)
 
+* [самодельный тандыр](https://www.youtube.com/watch?v=Xe4dqfz8_-k)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
