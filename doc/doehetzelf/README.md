@@ -18,6 +18,8 @@
 
 * [Cilindro parrillero peruano](https://www.youtube.com/watch?v=fLjswG1o83w)
 
+* [exelente parrilla de tambor unica con tapa corrediza.primero en ventas el ultimo mes en mercadolibre](https://www.youtube.com/watch?v=cDUzsh-0KI4)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
