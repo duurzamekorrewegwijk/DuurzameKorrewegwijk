@@ -63,6 +63,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [Melting Cans With The Mini Metal Foundry](https://www.youtube.com/watch?v=lSoWxG30rb0)
 
+* [How To Make The Mini Metal Foundry](https://www.youtube.com/watch?v=hHD10DjxM1g)
+
 ## Hout/plastic versnipperaar
 
 * [Hout versnipperaar mechanisme](https://www.youtube.com/watch?v=3WiShUSggas)
