@@ -54,3 +54,5 @@
 
 * [Amazon Deforestation Rate Hits 3 Football Fields Per Minute, Data Confirms](https://www.ecowatch.com/amazon-deforestation-unrecoverable-tipping-point-2639358982.html)
 
+* [Ethiopia plants more than 350 million trees in 12 hours](https://edition.cnn.com/2019/07/29/africa/ethiopia-plants-350-million-trees-intl-hnk/index.html)
+
