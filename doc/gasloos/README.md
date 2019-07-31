@@ -21,3 +21,5 @@
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
+
+* [Van het gas af met warmtenet? Eerste dagen blijft het koel, dan gaat de warmte er met geen mogelijkheid meer uit](https://www.dvhn.nl/extra/Van-het-gas-af-met-warmtenet-Eerste-dagen-blijft-het-koel-dan-gaat-de-warmte-er-met-geen-mogelijkheid-meer-uit-24692942.html)
