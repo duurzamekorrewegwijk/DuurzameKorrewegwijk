@@ -65,6 +65,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [How To Make The Mini Metal Foundry](https://www.youtube.com/watch?v=hHD10DjxM1g)
 
+* [Making a new furnace](https://www.youtube.com/watch?v=3yEkQhki4IE)
+
 ## Hout/plastic versnipperaar
 
 * [Hout versnipperaar mechanisme](https://www.youtube.com/watch?v=3WiShUSggas)
