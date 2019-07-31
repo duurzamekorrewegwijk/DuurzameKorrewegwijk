@@ -23,6 +23,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [DIY| Estufa Rocket/Rocket Stove Paso a Paso](https://www.youtube.com/watch?v=DZlZMY9-Nyk)
 
+* [로켓스토브 고기불판 (Rocket stove)](https://www.youtube.com/watch?v=jjsObiA3Heg)
+
 ## Barbeque / grill / tandoori
 
 * [HOW TO BUILD A BARREL BBQ/SMOKER (PART 1)](https://www.youtube.com/watch?v=mJhz0JfJ2KY) / [HOW TO BUILD A BARREL BBQ/SMOKER (PART 2)](https://www.youtube.com/watch?v=Pmr_cpdCsdw)
