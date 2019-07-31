@@ -21,6 +21,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [How does a Rocket Oven Work?](https://www.youtube.com/watch?v=DhMeg3VUFWs)
 
+* [DIY| Estufa Rocket/Rocket Stove Paso a Paso](https://www.youtube.com/watch?v=DZlZMY9-Nyk)
+
 ## Barbeque / grill / tandoori
 
 * [HOW TO BUILD A BARREL BBQ/SMOKER (PART 1)](https://www.youtube.com/watch?v=mJhz0JfJ2KY) / [HOW TO BUILD A BARREL BBQ/SMOKER (PART 2)](https://www.youtube.com/watch?v=Pmr_cpdCsdw)
