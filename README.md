@@ -39,6 +39,10 @@ Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & g
 
 [documentatie](doc/README.md)
 
+## NIEUWS
+
+[nieuws](doc/nieuws/README.md)
+
 ## BIJDRAGEN
 
 Wil je je eigen ideën hier kwijt, reageren/becommentariëren, stuur dan een mail naar:
