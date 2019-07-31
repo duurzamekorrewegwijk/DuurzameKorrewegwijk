@@ -5,7 +5,7 @@
 ---
 > Als het planten van bomen even winstgevend was als het produceren van wapens, dan zag de wereld groen in plaats van rot.
 
-_vrij naar Henri de Wolff (oprichter Forma Actua)_
+*vrij naar Henri de Wolff (oprichter Forma Actua)*
 ---
 
 # Duurzame Korrewegwijk
