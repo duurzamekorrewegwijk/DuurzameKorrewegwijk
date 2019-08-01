@@ -62,3 +62,4 @@
 
 * [The world's largest reforestation effort in history is underway](https://www.weforum.org/agenda/2017/11/the-worlds-largest-tropical-reforestation-project-has-begun-in-the-amazon)
 
+* [Een biljoen bomen planten: kan dat lukken?](https://www.rtlz.nl/algemeen/buitenland/video/4800506/een-biljoen-bomen-planten-kan-dat-lukken)
