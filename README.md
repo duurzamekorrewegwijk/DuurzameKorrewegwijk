@@ -23,7 +23,7 @@ Op dit moment tracht *Duurzame Korrewegwijk* een project voor een groen dak & zo
 Verdere thema's zijn:
 * Afval, recycling & composteren - streven naar een afval-loze/plastic-loze wijk en meer bewoners die zelf composteren.
 * Initiatieven tegen voedselverspilling.
-* Bevorderen van duurzame mobiliteit en beter benutten van parkeer-gelegenheid door deel-auto gebruik te bevorderen en beter OV. Zoals het aanleggen van een duurzame tram zonder rails of bovenleiding (zie: https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/mobiliteit)
+* Bevorderen van duurzame mobiliteit en beter benutten van parkeer-gelegenheid door deel-auto gebruik te bevorderen en beter OV. Zoals het aanleggen van een duurzame tram zonder rails of bovenleiding (zie: [duurzame mobiliteit](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/mobiliteit))
 * Projecten om de bio-diversiteit in de wijk te verbeteren (insecten- en bijen-hotels, bijen en vlinder tuinen, etc.)
 * Groene gevels, groene tegels en groene daken van gebouwen en bijgebouwen.
 * Zonnepanelen op zoveel mogelijk gebouwen (woningen en bedrijfsgebouwen)
