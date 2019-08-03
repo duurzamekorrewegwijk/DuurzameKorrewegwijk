@@ -2,6 +2,13 @@
 
 Allerlei voorbeelden van doe-het-zelf projecten.
 
+## Pallet hout
+
+* [DIY Pallet Table](https://www.youtube.com/watch?v=ClywMUHifF4)
+
+* [Paletten sehpa yapımı / Making a coffee table from pallets / Coffee table diy / Mesa de paletes](https://www.youtube.com/watch?v=iGFJQqZw4dE)
+
+* [Paletten bank yapımı / Making bench from pallets / Banco de palets / Outdoor sofa diy / Garden bench](https://www.youtube.com/watch?v=TZMhIxXrWOw)
 
 ## Olie vat (metaal) of plastic vat hergebruik
 
