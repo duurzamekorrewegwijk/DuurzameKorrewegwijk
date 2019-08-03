@@ -20,6 +20,10 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [30 Amazing Uses for Plastic 55 Gallon Drums](https://www.youtube.com/watch?v=QuAoi5o2AgQ)
 
+* [Console Table Built From 100% Reclaimed Pallet Lumber!](https://www.youtube.com/watch?v=fSBly-HlguI)
+
+* [How to Make a coffee table with pallets](https://www.youtube.com/watch?v=lYaoemR7wq0)
+
 ## Rocket stove
 
 * [Rocket stove wetenschap](https://www.youtube.com/watch?v=4TmWvLyaGdk)
