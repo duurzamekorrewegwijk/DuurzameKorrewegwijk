@@ -12,6 +12,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [50 Amazing Uses for Wood Pallets](https://www.youtube.com/watch?v=eUDhRyP-Guk)
 
+* [DIY: Hochbeet aus Paletten selber bauen (Anleitung)](https://www.youtube.com/watch?v=Sf3562d8d_s)
+
 ## Olie vat (metaal) of plastic vat hergebruik
 
 * [35 Amazing Uses for Metal 55 Gallon Oil Drums](https://www.youtube.com/watch?v=9DoFBadc_sY)
