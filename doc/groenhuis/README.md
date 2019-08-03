@@ -2,7 +2,7 @@
 
 Voormalige onderhoudswerkplaats van Lefier aan de Madoerastraat wordt omgezet in het Groenhuis met activiteiten voor bewoners.
 
-* [Ideëen voor activiteiten/diensten in het Groene Huis](ideën.md)
+* [Ideëen voor activiteiten/diensten in het Groenhuis](ideën.md)
 
 * [Doe-het-zelf projecten](../doehetzelf/README.md)
 
