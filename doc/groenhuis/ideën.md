@@ -1,4 +1,4 @@
-# Ideën voor activiteiten en diensten die vanuit het Groene Huis georganiseerd kunnen worden
+# Ideën voor activiteiten en diensten die vanuit het Groenhuis georganiseerd kunnen worden
 
 ## Diensten en activiteiten
 
