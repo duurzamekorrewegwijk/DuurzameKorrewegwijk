@@ -10,6 +10,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [Paletten bank yapımı / Making bench from pallets / Banco de palets / Outdoor sofa diy / Garden bench](https://www.youtube.com/watch?v=TZMhIxXrWOw)
 
+* [50 Amazing Uses for Wood Pallets](https://www.youtube.com/watch?v=eUDhRyP-Guk)
+
 ## Olie vat (metaal) of plastic vat hergebruik
 
 * [35 Amazing Uses for Metal 55 Gallon Oil Drums](https://www.youtube.com/watch?v=9DoFBadc_sY)
