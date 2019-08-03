@@ -24,6 +24,9 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [How to Make a coffee table with pallets](https://www.youtube.com/watch?v=lYaoemR7wq0)
 
+* [Tweakwood: Making a coffee table out of recycled pallet wood](https://www.youtube.com/watch?v=D2OETDVHHd4)
+
+
 ## Rocket stove
 
 * [Rocket stove wetenschap](https://www.youtube.com/watch?v=4TmWvLyaGdk)
