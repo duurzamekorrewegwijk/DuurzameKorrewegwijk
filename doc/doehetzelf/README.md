@@ -6,6 +6,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [How To De-Construct a Pallet](https://www.youtube.com/watch?v=2CSl4ZnUEiI)
 
+* [démonter une palette en 2 minutes 30 secondes](https://www.youtube.com/watch?v=n2Or7bb-n4k)
+
 * [DIY Pallet Table](https://www.youtube.com/watch?v=ClywMUHifF4)
 
 * [Paletten sehpa yapımı / Making a coffee table from pallets / Coffee table diy / Mesa de paletes](https://www.youtube.com/watch?v=iGFJQqZw4dE)
