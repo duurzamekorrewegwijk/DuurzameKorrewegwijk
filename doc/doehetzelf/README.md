@@ -73,6 +73,8 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [Как выбрать тандыр? Обзор тандыров и аксессуаров.](https://www.youtube.com/watch?v=GwCvI3QqgGY)
 
+* [Tan Boy - How to build a DIY Tandoor Oven at home](https://www.youtube.com/watch?v=iFzu6sYxeYE)
+
 ## Composteer installatie
 
 * [Composteren](https://github.com/duurzamekorrewegwijk/DuurzameKorrewegwijk/tree/master/doc/composteren)
