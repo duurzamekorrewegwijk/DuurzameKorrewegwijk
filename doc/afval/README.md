@@ -28,3 +28,5 @@
 * [This NYC Store is an Environmentalist's Wonderland](https://www.youtube.com/watch?v=wZMmG7Bkvxk)
 
 * [This Dutch company has devised an innovative way to deal with food waste](https://www.weforum.org/agenda/2019/07/this-dutch-company-has-devised-an-innovative-way-to-deal-with-food-waste)
+
+* [Het recycle-probleem: waarom een wasmiddelfles geen wasmiddelfles blijft ](https://nos.nl/op3/artikel/2296403-het-recycle-probleem-waarom-een-wasmiddelfles-geen-wasmiddelfles-blijft.html)
