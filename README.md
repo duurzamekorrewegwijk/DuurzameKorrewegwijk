@@ -3,7 +3,7 @@
 ---
 > Als het planten van bomen even winstgevend was als het produceren van wapens, dan zag de wereld groen in plaats van rot.
 ```
-vrij naar Henri de Wolff (oprichter Forma Actua)
+vrij naar Henri de Wolf (oprichter Forma Actua)
 ```
 ---
 ![wijkbakfiets](img/wijkbakfiets.jpg)
