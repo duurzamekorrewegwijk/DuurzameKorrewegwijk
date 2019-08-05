@@ -1,5 +1,9 @@
 # DUURZAME MOBILITEIT
 
+Electrische deelauto
+
+* [Venlo wil alle wijken voorzien van elektrische deelauto's](https://nos.nl/artikel/2296443-venlo-wil-alle-wijken-voorzien-van-elektrische-deelauto-s.html)
+
 Tram zonder rails of bovenleiding
 
 * [OV magazine](https://www.ovmagazine.nl/2017/11/railloze-tram-getest-in-zhuzhou-china-1610/)
