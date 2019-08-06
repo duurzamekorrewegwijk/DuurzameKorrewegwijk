@@ -65,3 +65,5 @@
 * [Een biljoen bomen planten: kan dat lukken?](https://www.rtlz.nl/algemeen/buitenland/video/4800506/een-biljoen-bomen-planten-kan-dat-lukken)
 
 * [Amsterdam waarschuwt voor subsidies biomassa](https://www.parool.nl/amsterdam/amsterdam-waarschuwt-voor-subsidies-biomassa~b93b6ed7)
+
+* [Trend van ontbossing zet door in Nederland](https://demonitor.kro-ncrv.nl/artikelen/trend-van-ontbossing-zet-door-in-nederland)
