@@ -32,3 +32,5 @@
 * [Het recycle-probleem: waarom een wasmiddelfles geen wasmiddelfles blijft ](https://nos.nl/op3/artikel/2296403-het-recycle-probleem-waarom-een-wasmiddelfles-geen-wasmiddelfles-blijft.html)
 
 * [Import afval wordt beperkt, maar afvalbedrijven vinden het niet genoeg](https://nos.nl/artikel/2296675-import-afval-wordt-beperkt-maar-afvalbedrijven-vinden-het-niet-genoeg.html)
+
+* [Waarom plastic hergebruiken ingewikkelder is dan je denkt](https://nos.nl/op3/artikel/2296460-waarom-plastic-hergebruiken-ingewikkelder-is-dan-je-denkt.html)
