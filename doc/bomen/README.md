@@ -69,3 +69,5 @@
 * [Trend van ontbossing zet door in Nederland](https://demonitor.kro-ncrv.nl/artikelen/trend-van-ontbossing-zet-door-in-nederland)
 
 * [Europe’s renewable energy policy is built on burning American trees](https://www.vox.com/science-and-health/2019/3/4/18216045/renewable-energy-wood-pellets-biomass)
+
+* [Morocco to Plant 50 Million Trees in a Day](https://www.moroccoworldnews.com/2019/08/279790/morocco-to-plant-50-million-trees-in-a-day)
