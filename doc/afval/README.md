@@ -34,3 +34,5 @@
 * [Import afval wordt beperkt, maar afvalbedrijven vinden het niet genoeg](https://nos.nl/artikel/2296675-import-afval-wordt-beperkt-maar-afvalbedrijven-vinden-het-niet-genoeg.html)
 
 * [Waarom plastic hergebruiken ingewikkelder is dan je denkt](https://nos.nl/op3/artikel/2296460-waarom-plastic-hergebruiken-ingewikkelder-is-dan-je-denkt.html)
+
+* [Duitse campagne: statiegeld op flessen werkt, dus waarom niet op sigarettenpeuken?](https://www.volkskrant.nl/nieuws-achtergrond/duitse-campagne-statiegeld-op-flessen-werkt-dus-waarom-niet-op-sigarettenpeuken~b21494e8)
