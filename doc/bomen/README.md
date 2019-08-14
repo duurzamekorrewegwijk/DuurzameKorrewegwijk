@@ -71,3 +71,5 @@
 * [Europe’s renewable energy policy is built on burning American trees](https://www.vox.com/science-and-health/2019/3/4/18216045/renewable-energy-wood-pellets-biomass)
 
 * [Morocco to Plant 50 Million Trees in a Day](https://www.moroccoworldnews.com/2019/08/279790/morocco-to-plant-50-million-trees-in-a-day)
+
+* [New study: Burning wood from ‘sustainably managed’ forests increases carbon pollution for 40+ years](https://www.southernenvironment.org/news-and-press/news-feed/new-study-shows-burning-wood-from-sustainably-managed-forests-increases-carbon-pollution-for-40-years)
