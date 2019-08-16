@@ -75,3 +75,5 @@
 * [New study: Burning wood from ‘sustainably managed’ forests increases carbon pollution for 40+ years](https://www.southernenvironment.org/news-and-press/news-feed/new-study-shows-burning-wood-from-sustainably-managed-forests-increases-carbon-pollution-for-40-years)
 
 * [Lost forests: Russia considers banning lumber exports to China over concerns about illegal logging](https://www.rt.com/business/466543-russia-lumber-export-ban)
+
+* [Noodkreet natuurorganisaties: stop met kaalkap bossen in Nederland](https://www.ad.nl/binnenland/noodkreet-natuurorganisaties-stop-met-kaalkap-bossen-in-nederland~a712f8cd)
