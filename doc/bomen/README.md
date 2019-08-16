@@ -73,3 +73,5 @@
 * [Morocco to Plant 50 Million Trees in a Day](https://www.moroccoworldnews.com/2019/08/279790/morocco-to-plant-50-million-trees-in-a-day)
 
 * [New study: Burning wood from ‘sustainably managed’ forests increases carbon pollution for 40+ years](https://www.southernenvironment.org/news-and-press/news-feed/new-study-shows-burning-wood-from-sustainably-managed-forests-increases-carbon-pollution-for-40-years)
+
+* [Lost forests: Russia considers banning lumber exports to China over concerns about illegal logging](https://www.rt.com/business/466543-russia-lumber-export-ban)
