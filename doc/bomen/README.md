@@ -77,3 +77,5 @@
 * [Lost forests: Russia considers banning lumber exports to China over concerns about illegal logging](https://www.rt.com/business/466543-russia-lumber-export-ban)
 
 * [Noodkreet natuurorganisaties: stop met kaalkap bossen in Nederland](https://www.ad.nl/binnenland/noodkreet-natuurorganisaties-stop-met-kaalkap-bossen-in-nederland~a712f8cd)
+
+* [Gemeente en Provincie Groningen: Kappen met kappen. Stop de #ontgroening van Groningen](https://secure.avaaz.org/en/community_petitions/Municipality_of_the_city_and_province_of_Groningen_Stop_the_Destruction_of_Groningens_Trees_and_Green_Spaces)
