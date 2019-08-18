@@ -1,5 +1,9 @@
 # NIEUWS
 
+18 aug 2019
+
+* [We willen allemaal stroom, maar kan het netwerk dit nog wel aan?](https://nos.nl/artikel/2298022-we-willen-allemaal-stroom-maar-kan-het-netwerk-dit-nog-wel-aan.html)
+
 16 aug 2019
 
 * [Groen bushokje de wereld over: 'Meer dan alleen symbolische waarde' ](https://nos.nl/artikel/2297804-groen-bushokje-de-wereld-over-meer-dan-alleen-symbolische-waarde.htm)
