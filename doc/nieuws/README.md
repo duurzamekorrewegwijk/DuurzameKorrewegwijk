@@ -7,3 +7,5 @@
 16 aug 2019
 
 * [Groen bushokje de wereld over: 'Meer dan alleen symbolische waarde' ](https://nos.nl/artikel/2297804-groen-bushokje-de-wereld-over-meer-dan-alleen-symbolische-waarde.htm)
+
+* [Huizen en stad niet gebouwd op tropische temperaturen](https://www.oogtv.nl/2019/08/huizen-en-stad-niet-gebouwd-op-tropische-temperaturen/)
