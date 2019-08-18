@@ -101,16 +101,17 @@ Allerlei voorbeelden van doe-het-zelf projecten.
 
 * [Hout versnipperaar - zelfbouw](https://www.youtube.com/watch?v=KxvdaDIsek0)
 
+* [Wood chipper & Log splitter - BUILD])https://www.youtube.com/watch?v=cuMJ6c5r7UQ)
+
 * [Plastic vernipperaar](https://www.youtube.com/watch?v=VFIPXgrk7u0)
-
-* [Plastic extrusie machine](https://www.youtube.com/watch?v=p4NoY33-Tfo)
-
-* [Precious Plastic - het verhaal erachter](https://www.youtube.com/watch?v=EPA2l1bi2pQ)
-
 
 ## Plastic recycling
 
 * [Precious plastic](https://preciousplastic.com/)
+
+* [Plastic extrusie machine](https://www.youtube.com/watch?v=p4NoY33-Tfo)
+
+* [Precious Plastic - het verhaal erachter](https://www.youtube.com/watch?v=EPA2l1bi2pQ)
 
 ## Zeep maken
 
