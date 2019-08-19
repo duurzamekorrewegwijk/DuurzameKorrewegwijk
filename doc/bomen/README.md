@@ -79,3 +79,5 @@
 * [Noodkreet natuurorganisaties: stop met kaalkap bossen in Nederland](https://www.ad.nl/binnenland/noodkreet-natuurorganisaties-stop-met-kaalkap-bossen-in-nederland~a712f8cd)
 
 * [Gemeente en Provincie Groningen: Kappen met kappen. Stop de #ontgroening van Groningen](https://secure.avaaz.org/en/community_petitions/Municipality_of_the_city_and_province_of_Groningen_Stop_the_Destruction_of_Groningens_Trees_and_Green_Spaces)
+
+* [Tanzania: 50 Million Trees Set to Be Planted in Kilimanjaro](https://allafrica.com/stories/201803090546.html)
