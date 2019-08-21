@@ -85,3 +85,5 @@
 * [Kenya has lost nearly half its forests – time for the young to act](https://www.theafricareport.com/16150/kenya-has-lost-nearly-half-its-forests-time-for-the-young-to-act)
 
 * [Wildfires are burning around the world. The most alarming is in the Amazon rainforest](https://www.vox.com/world/2019/8/20/20813786/wildfire-amazon-rainforest-brazil-siberia)
+
+* [Brazilië brandt: vuurzee in Amazonegebied door massale ontbossing](https://www.rtlnieuws.nl/nieuws/buitenland/artikel/4821071/bolsonaro-bosbrand-amazone-milieu-klimaat-opwarming-aarde-natuur)
