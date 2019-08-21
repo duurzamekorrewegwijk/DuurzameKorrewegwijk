@@ -83,3 +83,5 @@
 * [Tanzania: 50 Million Trees Set to Be Planted in Kilimanjaro](https://allafrica.com/stories/201803090546.html)
 
 * [Kenya has lost nearly half its forests – time for the young to act](https://www.theafricareport.com/16150/kenya-has-lost-nearly-half-its-forests-time-for-the-young-to-act)
+
+* [https://www.vox.com/world/2019/8/20/20813786/wildfire-amazon-rainforest-brazil-siberia](Wildfires are burning around the world. The most alarming is in the Amazon rainforest)
