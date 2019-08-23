@@ -87,3 +87,5 @@
 * [Wildfires are burning around the world. The most alarming is in the Amazon rainforest](https://www.vox.com/world/2019/8/20/20813786/wildfire-amazon-rainforest-brazil-siberia)
 
 * [Brazilië brandt: vuurzee in Amazonegebied door massale ontbossing](https://www.rtlnieuws.nl/nieuws/buitenland/artikel/4821071/bolsonaro-bosbrand-amazone-milieu-klimaat-opwarming-aarde-natuur)
+
+* [‘Duurzaamheid is slechts een verhaaltje’](https://www.groene.nl/artikel/duurzaamheid-is-slechts-een-verhaaltje)
