@@ -89,3 +89,5 @@
 * [Brazilië brandt: vuurzee in Amazonegebied door massale ontbossing](https://www.rtlnieuws.nl/nieuws/buitenland/artikel/4821071/bolsonaro-bosbrand-amazone-milieu-klimaat-opwarming-aarde-natuur)
 
 * [‘Duurzaamheid is slechts een verhaaltje’](https://www.groene.nl/artikel/duurzaamheid-is-slechts-een-verhaaltje)
+
+* [Nederland haalt voor miljarden uit Brazilië, ook uit Amazonegebied](https://nos.nl/artikel/2298683-nederland-haalt-voor-miljarden-uit-brazilie-ook-uit-amazonegebied.html)
