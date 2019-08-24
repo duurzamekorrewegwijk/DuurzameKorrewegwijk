@@ -95,3 +95,5 @@
 * [The Amazon is burning because the world eats so much meat](https://edition.cnn.com/2019/08/23/americas/brazil-beef-amazon-rainforest-fire-intl/index.html)
 
 * [Bolsonaro stuurt leger naar bosbranden Amazonegebied](https://nos.nl/artikel/2298739-bolsonaro-stuurt-leger-naar-bosbranden-amazonegebied.html)
+
+* [Het Amazonewoud brandt in recordtempo af](https://www.nationalgeographic.nl/milieu/2019/08/het-amazonewoud-brandt-recordtempo-af)
