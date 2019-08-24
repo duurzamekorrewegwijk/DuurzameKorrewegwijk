@@ -99,3 +99,5 @@
 * [Het Amazonewoud brandt in recordtempo af](https://www.nationalgeographic.nl/milieu/2019/08/het-amazonewoud-brandt-recordtempo-af)
 
 * [Nederland haalt voor miljarden uit Brazilië, ook uit Amazonegebied](https://nos.nl/artikel/2298683-nederland-haalt-voor-miljarden-uit-brazilie-ook-uit-amazonegebied.html)
+
+* [Deze duurzame startup verovert de wereld met kokosafval](https://www.voordewereldvanmorgen.nl/duurzame-blogs/deze-duurzame-startup-verovert-de-wereld-met-kokosafval)
