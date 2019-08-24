@@ -103,3 +103,5 @@
 * [Deze duurzame startup verovert de wereld met kokosafval](https://www.voordewereldvanmorgen.nl/duurzame-blogs/deze-duurzame-startup-verovert-de-wereld-met-kokosafval)
 
 * [More Fires Now Burning in Angola, Congo Than Amazon: Maps](https://www.bloomberg.com/news/articles/2019-08-23/more-fires-now-burning-in-angola-congo-than-amazon-maps)
+
+* [More Fires Now Burning in Angola, Congo Than Amazon: Maps](https://edition.cnn.com/2019/08/22/world/amazon-rainforest-environment-fire-trnd/index.html)
