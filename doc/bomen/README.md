@@ -91,3 +91,5 @@
 * [‘Duurzaamheid is slechts een verhaaltje’](https://www.groene.nl/artikel/duurzaamheid-is-slechts-een-verhaaltje)
 
 * [Nederland haalt voor miljarden uit Brazilië, ook uit Amazonegebied](https://nos.nl/artikel/2298683-nederland-haalt-voor-miljarden-uit-brazilie-ook-uit-amazonegebied.html)
+
+* [The Amazon is burning because the world eats so much meat](https://edition.cnn.com/2019/08/23/americas/brazil-beef-amazon-rainforest-fire-intl/index.html)
