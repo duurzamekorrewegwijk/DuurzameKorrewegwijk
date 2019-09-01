@@ -103,3 +103,5 @@
 * [Deze duurzame startup verovert de wereld met kokosafval](https://www.voordewereldvanmorgen.nl/duurzame-blogs/deze-duurzame-startup-verovert-de-wereld-met-kokosafval)
 
 * [More Fires Now Burning in Angola, Congo Than Amazon: Maps](https://www.bloomberg.com/news/articles/2019-08-23/more-fires-now-burning-in-angola-congo-than-amazon-maps)
+
+* [Onderzoek Finland: “Houtkachel minst klimaatvriendelijke manier om huis te verwarmen.”](https://houtrookvrij.nl/2019/09/01/onderzoek-finland-houtkachel-minst-klimaatvriendelijke-manier-om-huis-te-verwarmen)
