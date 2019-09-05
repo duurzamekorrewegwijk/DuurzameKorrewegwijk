@@ -20,6 +20,8 @@
 
 * [Commentaar: Van het gas. Maar hoe?](https://www.dvhn.nl/Meningen/Commentaar/Commentaar-Van-het-gas.-Maar-hoe-24794720.html)
 
+* [Lopend Vuur: Ik zou niet weten hoe ik mijn huis aardgasvrij moet maken](https://www.rtvnoord.nl/nieuws/212515/Lopend-Vuur-Ik-zou-niet-weten-hoe-ik-mijn-huis-aardgasvrij-moet-maken)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
