@@ -18,6 +18,8 @@
 
 * [Gemeentebestuur Groningen is naïef als het gaat om transitie](https://reader.dvhn.nl/dvhn/10022/article/940868/13/2/render/?token=ee7087f2deb145d3fe3a845a4662c0df)
 
+* [Commentaar: Van het gas. Maar hoe?](https://www.dvhn.nl/Meningen/Commentaar/Commentaar-Van-het-gas.-Maar-hoe-24794720.html)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
