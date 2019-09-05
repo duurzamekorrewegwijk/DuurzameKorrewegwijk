@@ -22,6 +22,8 @@
 
 * [Lopend Vuur: Ik zou niet weten hoe ik mijn huis aardgasvrij moet maken](https://www.rtvnoord.nl/nieuws/212515/Lopend-Vuur-Ik-zou-niet-weten-hoe-ik-mijn-huis-aardgasvrij-moet-maken)
 
+* [Huiseigenaar huiverig om van het aardgas af te gaan: twijfel aan betaalbaarheid en effectiviteit van de alternatieven](https://www.dvhn.nl/extra/Van-het-aardgas-af-Best-maar-waarom-zouden-we-24794815.html)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
