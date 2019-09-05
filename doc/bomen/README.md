@@ -107,3 +107,5 @@
 * [Onderzoek Finland: “Houtkachel minst klimaatvriendelijke manier om huis te verwarmen.”](https://houtrookvrij.nl/2019/09/01/onderzoek-finland-houtkachel-minst-klimaatvriendelijke-manier-om-huis-te-verwarmen)
 
 * [Africa Is On Fire Worse Than The Amazon But No One Is Talking About It](https://anewspost.com/africa-is-on-fire-worse-than-the-amazon)
+
+* [Waarom biomassa een grotere klimaatkiller is dan steenkool](https://www.trouw.nl/duurzaamheid-natuur/waarom-biomassa-een-grotere-klimaatkiller-is-dan-steenkool~b8d089d1/)
