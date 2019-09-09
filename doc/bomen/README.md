@@ -109,3 +109,5 @@
 * [Africa Is On Fire Worse Than The Amazon But No One Is Talking About It](https://anewspost.com/africa-is-on-fire-worse-than-the-amazon)
 
 * [Waarom biomassa een grotere klimaatkiller is dan steenkool](https://www.trouw.nl/duurzaamheid-natuur/waarom-biomassa-een-grotere-klimaatkiller-is-dan-steenkool~b8d089d1/)
+
+* [Senegal is planting millions of mangrove trees to fight deforestation](https://www.weforum.org/agenda/2019/09/senegal-is-planting-millions-of-mangrove-trees-to-fight-deforestation)
