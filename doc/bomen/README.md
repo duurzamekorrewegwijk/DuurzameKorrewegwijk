@@ -111,3 +111,5 @@
 * [Waarom biomassa een grotere klimaatkiller is dan steenkool](https://www.trouw.nl/duurzaamheid-natuur/waarom-biomassa-een-grotere-klimaatkiller-is-dan-steenkool~b8d089d1/)
 
 * [Senegal is planting millions of mangrove trees to fight deforestation](https://www.weforum.org/agenda/2019/09/senegal-is-planting-millions-of-mangrove-trees-to-fight-deforestation)
+
+* [Deze ambtenaar plantte 300.000 bomen in Kenia van zijn spaargeld](https://sublime.nl/nvdv-deze-ambtenaar-heeft-300-000-bomen-in-kenia-geplant-van-zijn-spaargeld)
