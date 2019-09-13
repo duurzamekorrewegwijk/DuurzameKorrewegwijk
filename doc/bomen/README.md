@@ -113,3 +113,5 @@
 * [Senegal is planting millions of mangrove trees to fight deforestation](https://www.weforum.org/agenda/2019/09/senegal-is-planting-millions-of-mangrove-trees-to-fight-deforestation)
 
 * [Deze ambtenaar plantte 300.000 bomen in Kenia van zijn spaargeld](https://sublime.nl/nvdv-deze-ambtenaar-heeft-300-000-bomen-in-kenia-geplant-van-zijn-spaargeld)
+
+* [Peru Signs Agreement To End Deforestation Caused By Palm Oil By 2021](https://www.greenandgrowing.org/peru-signs-agreement-end-deforestation-caused-palm-oil-2021)
