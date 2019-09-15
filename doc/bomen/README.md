@@ -117,3 +117,5 @@
 * [Peru Signs Agreement To End Deforestation Caused By Palm Oil By 2021](https://www.greenandgrowing.org/peru-signs-agreement-end-deforestation-caused-palm-oil-2021)
 
 * [Actiegroep dreigt provincie voor Internationaal Strafhof te dagen ](https://www.omroepgelderland.nl/nieuws/2423974/Actiegroep-dreigt-provincie-voor-Internationaal-Strafhof-te-dagen)
+
+* [Verzet tegen kap 14.000 bomen in Ouderkerk: ‘We zijn het kind van de rekening](https://www.parool.nl/amsterdam/verzet-tegen-kap-14-000-bomen-in-ouderkerk-we-zijn-het-kind-van-de-rekening~bebe69c9)
