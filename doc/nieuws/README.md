@@ -1,5 +1,9 @@
 # NIEUWS
 
+23 sep 2019
+
+* [Huishouden betaalt fors meer energiebelasting dan bedrijven](https://kassa.bnnvara.nl/nieuws/huishouden-betaalt-fors-meer-energiebelasting-dan-bedrijven2000)
+
 18 aug 2019
 
 * [We willen allemaal stroom, maar kan het netwerk dit nog wel aan?](https://nos.nl/artikel/2298022-we-willen-allemaal-stroom-maar-kan-het-netwerk-dit-nog-wel-aan.html)
