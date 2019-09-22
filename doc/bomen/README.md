@@ -123,3 +123,5 @@
 * [The Amazon Rain Forest Is Nearly Gone](https://time.com/amazon-rainforest-disappearing)
 
 * [Nieuw-Zeeland plant 1 miljard bomen om klimaatverandering tegen te gaan](https://www.curioctopus.nl/read/22940/nieuw-zeeland-plant-1-miljard-bomen-om-klimaatverandering-tegen-te-gaan)
+
+* [Zo planten ze in Myanmar 400.000 bomen per dag](https://www.hetkanwel.nl/2019/07/31/zo-planten-ze-in-myanmar-400-000-bomen-per-dag)
