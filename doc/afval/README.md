@@ -36,3 +36,5 @@
 * [Waarom plastic hergebruiken ingewikkelder is dan je denkt](https://nos.nl/op3/artikel/2296460-waarom-plastic-hergebruiken-ingewikkelder-is-dan-je-denkt.html)
 
 * [Duitse campagne: statiegeld op flessen werkt, dus waarom niet op sigarettenpeuken?](https://www.volkskrant.nl/nieuws-achtergrond/duitse-campagne-statiegeld-op-flessen-werkt-dus-waarom-niet-op-sigarettenpeuken~b21494e8)
+
+* [Kunststof de grondstof](https://www.bc1.nl/kunststof-de-grondstof)
