@@ -127,3 +127,5 @@
 * [Zo planten ze in Myanmar 400.000 bomen per dag](https://www.hetkanwel.nl/2019/07/31/zo-planten-ze-in-myanmar-400-000-bomen-per-dag)
 
 * [Groot­schalige bomenkap in duinen dreigt](https://noordholland.partijvoordedieren.nl/nieuws/grootschalige-bomenkap-in-duinen-dreigt)
+
+* [Commissie-Remkes: heroverweeg subsidies voor biomassabijstook](https://energeia.nl/energeia-artikel/40084642/commissie-remkes-heroverweeg-subsidies-voor-biomassabijstook)
