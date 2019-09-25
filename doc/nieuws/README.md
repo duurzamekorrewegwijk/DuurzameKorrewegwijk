@@ -2,6 +2,8 @@
 
 25 sep 2019
 
+* [Gebakken lucht! (chantage door de NAM)](https://wijsvinger.com/gebakken-lucht/)
+
 * [Commissie-Remkes: heroverweeg subsidies voor biomassabijstook](https://energeia.nl/energeia-artikel/40084642/commissie-remkes-heroverweeg-subsidies-voor-biomassabijstook)
 
 * [130 klimaatexperts, 37 landen, één signaal: 'De wereld slaat op hol'](https://www.rtlz.nl/algemeen/buitenland/artikel/4860271/klimaatverandering-opwarming-aarde-smeltend-ijs-stijgende)
