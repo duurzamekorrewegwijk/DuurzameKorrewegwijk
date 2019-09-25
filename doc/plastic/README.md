@@ -15,3 +15,5 @@
 * [France's plastic revolution | earthrise](https://www.youtube.com/watch?v=4Bzh5tbTTdc)
 
 * [Plastic in paradise: the battle for the Galápagos Islands' future](https://www.youtube.com/watch?v=aS8IBxi2xJE)
+
+* [Lopend Vuur: Doe overal plastic bekers, bordjes en rietjes in de ban](https://www.rtvnoord.nl/nieuws/213760/Lopend-Vuur-Doe-overal-plastic-bekers-bordjes-en-rietjes-in-de-ban)
