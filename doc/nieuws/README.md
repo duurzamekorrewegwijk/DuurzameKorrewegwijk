@@ -12,6 +12,8 @@
 
 * [Lopend Vuur: Doe overal plastic bekers, bordjes en rietjes in de ban ](https://www.rtvnoord.nl/nieuws/213760/Lopend-Vuur-Doe-overal-plastic-bekers-bordjes-en-rietjes-in-de-ban)
 
+* [South Australia unveils plans for 100% renewable hydrogen economy](https://reneweconomy.com.au/south-australia-unveils-plans-for-100-renewable-hydrogen-economy-58723)
+
 23 sep 2019
 
 * [Huishouden betaalt fors meer energiebelasting dan bedrijven](https://kassa.bnnvara.nl/nieuws/huishouden-betaalt-fors-meer-energiebelasting-dan-bedrijven2000)
