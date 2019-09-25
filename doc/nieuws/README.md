@@ -1,5 +1,9 @@
 # NIEUWS
 
+24 sep 2019
+
+* [Lopend Vuur: Doe overal plastic bekers, bordjes en rietjes in de ban ](https://www.rtvnoord.nl/nieuws/213760/Lopend-Vuur-Doe-overal-plastic-bekers-bordjes-en-rietjes-in-de-ban)
+
 23 sep 2019
 
 * [Huishouden betaalt fors meer energiebelasting dan bedrijven](https://kassa.bnnvara.nl/nieuws/huishouden-betaalt-fors-meer-energiebelasting-dan-bedrijven2000)
