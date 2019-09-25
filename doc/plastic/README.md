@@ -17,3 +17,5 @@
 * [Plastic in paradise: the battle for the Galápagos Islands' future](https://www.youtube.com/watch?v=aS8IBxi2xJE)
 
 * [Lopend Vuur: Doe overal plastic bekers, bordjes en rietjes in de ban](https://www.rtvnoord.nl/nieuws/213760/Lopend-Vuur-Doe-overal-plastic-bekers-bordjes-en-rietjes-in-de-ban)
+
+* [There’s Finally a Way to Recycle the Plastic in Shampoo and Yogurt Packaging](https://www.bloomberg.com/news/features/2019-09-25/polypropylene-plastic-can-finally-be-recycled)
