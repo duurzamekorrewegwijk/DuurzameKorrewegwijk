@@ -1,5 +1,9 @@
 # NIEUWS
 
+25 sep 2019
+
+* [130 klimaatexperts, 37 landen, één signaal: 'De wereld slaat op hol'](https://www.rtlz.nl/algemeen/buitenland/artikel/4860271/klimaatverandering-opwarming-aarde-smeltend-ijs-stijgende)
+
 24 sep 2019
 
 * [Lopend Vuur: Doe overal plastic bekers, bordjes en rietjes in de ban ](https://www.rtvnoord.nl/nieuws/213760/Lopend-Vuur-Doe-overal-plastic-bekers-bordjes-en-rietjes-in-de-ban)
