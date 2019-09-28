@@ -129,3 +129,7 @@
 * [Groot­schalige bomenkap in duinen dreigt](https://noordholland.partijvoordedieren.nl/nieuws/grootschalige-bomenkap-in-duinen-dreigt)
 
 * [Commissie-Remkes: heroverweeg subsidies voor biomassabijstook](https://energeia.nl/energeia-artikel/40084642/commissie-remkes-heroverweeg-subsidies-voor-biomassabijstook)
+
+* [Plan voor 10 miljoen extra bomen in Nederland valt in de prijzen](https://www.brabantsemilieufederatie.nl/nieuws/plan-voor-10-miljoen-extra-bomen-in-nederland-valt-in-de-prijzen)
+
+* [Trend van ontbossing zet door in Nederland](https://demonitor.kro-ncrv.nl/artikelen/trend-van-ontbossing-zet-door-in-nederland)
