@@ -24,6 +24,8 @@
 
 * [Huiseigenaar huiverig om van het aardgas af te gaan: twijfel aan betaalbaarheid en effectiviteit van de alternatieven](https://www.dvhn.nl/extra/Van-het-aardgas-af-Best-maar-waarom-zouden-we-24794815.html)
 
+* [1,5 miljoen huizen van het gas af, dat is best lastig](https://www.nrc.nl/nieuws/2019/09/27/15-miljoen-huizen-van-het-gas-af-dat-is-best-lastig-a3974861)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
