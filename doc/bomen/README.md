@@ -133,3 +133,5 @@
 * [Plan voor 10 miljoen extra bomen in Nederland valt in de prijzen](https://www.brabantsemilieufederatie.nl/nieuws/plan-voor-10-miljoen-extra-bomen-in-nederland-valt-in-de-prijzen)
 
 * [Trend van ontbossing zet door in Nederland](https://demonitor.kro-ncrv.nl/artikelen/trend-van-ontbossing-zet-door-in-nederland)
+
+* [NASA Says Earth Is Greener Today Than 20 Years Ago Thanks To China, India](https://www.forbes.com/sites/trevornace/2019/02/28/nasa-says-earth-is-greener-today-than-20-years-ago-thanks-to-china-india)
