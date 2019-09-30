@@ -26,6 +26,8 @@
 
 * [1,5 miljoen huizen van het gas af, dat is best lastig](https://www.nrc.nl/nieuws/2019/09/27/15-miljoen-huizen-van-het-gas-af-dat-is-best-lastig-a3974861)
 
+* [Duitsers zijn bezorgd over dichte gaskraan](https://www.e-pages.dk/dvhn/10245/article/978586/4/1/render/?token=8c712a2459c33fb09121d56ca0299b5f)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
