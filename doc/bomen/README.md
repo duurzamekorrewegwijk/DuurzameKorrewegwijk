@@ -135,3 +135,5 @@
 * [Trend van ontbossing zet door in Nederland](https://demonitor.kro-ncrv.nl/artikelen/trend-van-ontbossing-zet-door-in-nederland)
 
 * [NASA Says Earth Is Greener Today Than 20 Years Ago Thanks To China, India](https://www.forbes.com/sites/trevornace/2019/02/28/nasa-says-earth-is-greener-today-than-20-years-ago-thanks-to-china-india)
+
+* [Duitsland investeert 800 miljoen in bossen](https://www.mo.be/nieuws/duitsland-investeert-800-miljoen-bossen)
