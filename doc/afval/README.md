@@ -40,3 +40,5 @@
 * [Kunststof de grondstof](https://www.bc1.nl/kunststof-de-grondstof)
 
 * [Mogelijk in 2021 statiegeld op plastic flesjes](https://www.rtlnieuws.nl/nieuws/nederland/artikel/4863601/statiegeld-plastic-flesjes-invoering-zwerfafval-natuur)
+
+* [Den Haag: Uitbreiding statiegeld op kleine flesjes nabij](https://www.trouw.nl/politiek/den-haag-uitbreiding-statiegeld-op-kleine-flesjes-nabij~bcc7b85a/)
