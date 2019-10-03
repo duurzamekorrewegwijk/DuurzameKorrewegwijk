@@ -137,3 +137,7 @@
 * [NASA Says Earth Is Greener Today Than 20 Years Ago Thanks To China, India](https://www.forbes.com/sites/trevornace/2019/02/28/nasa-says-earth-is-greener-today-than-20-years-ago-thanks-to-china-india)
 
 * [Duitsland investeert 800 miljoen in bossen](https://www.mo.be/nieuws/duitsland-investeert-800-miljoen-bossen)
+
+* [Wetenschappers: 'Biomassa niet duurzaam, stop met subsidies'](https://www.rtlz.nl/algemeen/binnenland/artikel/4870461/europese-wetenschappers-miljarden-subsidie-biomassa-co2)
+
+* ['Miljardensubsidies voor biomassa zijn weggegooid geld’](https://www.ad.nl/nieuws/miljardensubsidies-voor-biomassa-zijn-weggegooid-geld~adf24748)
