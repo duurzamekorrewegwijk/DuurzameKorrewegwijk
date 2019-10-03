@@ -1,5 +1,8 @@
 # NIEUWS
 
+2 okt 2019
+
+* [Hanzehogeschool krijgt 7 ton voor project waarin productie van groen gas uit gras centraal staat](https://www.dvhn.nl/groningen/stad/Hanzehogeschool-krijgt-7-ton-voor-project-waarin-productie-van-groen-gas-uit-gras-centraal-staat-24883227.html)
 
 25 sep 2019
 
