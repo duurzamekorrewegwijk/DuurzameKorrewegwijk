@@ -4,6 +4,8 @@
 
 * [Hanzehogeschool krijgt 7 ton voor project waarin productie van groen gas uit gras centraal staat](https://www.dvhn.nl/groningen/stad/Hanzehogeschool-krijgt-7-ton-voor-project-waarin-productie-van-groen-gas-uit-gras-centraal-staat-24883227.html)
 
+* [Biogas en groen gas](https://missieenergie.nl/biogas-en-groen-gas)
+
 25 sep 2019
 
 * [ Rusland treedt formeel toe tot Klimaatakkoord van Parijs](https://www.duurzaamnieuws.nl/rusland-treedt-formeel-toe-tot-klimaatakkoord-van-parijs/)
