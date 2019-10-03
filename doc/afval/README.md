@@ -38,3 +38,5 @@
 * [Duitse campagne: statiegeld op flessen werkt, dus waarom niet op sigarettenpeuken?](https://www.volkskrant.nl/nieuws-achtergrond/duitse-campagne-statiegeld-op-flessen-werkt-dus-waarom-niet-op-sigarettenpeuken~b21494e8)
 
 * [Kunststof de grondstof](https://www.bc1.nl/kunststof-de-grondstof)
+
+* [Mogelijk in 2021 statiegeld op plastic flesjes](https://www.rtlnieuws.nl/nieuws/nederland/artikel/4863601/statiegeld-plastic-flesjes-invoering-zwerfafval-natuur)
