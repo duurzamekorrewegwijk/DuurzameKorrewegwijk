@@ -42,3 +42,5 @@
 * [Mogelijk in 2021 statiegeld op plastic flesjes](https://www.rtlnieuws.nl/nieuws/nederland/artikel/4863601/statiegeld-plastic-flesjes-invoering-zwerfafval-natuur)
 
 * [Den Haag: Uitbreiding statiegeld op kleine flesjes nabij](https://www.trouw.nl/politiek/den-haag-uitbreiding-statiegeld-op-kleine-flesjes-nabij~bcc7b85a/)
+
+* [The Ocean Cleanup verzamelt voor het eerst plastic in Grote Oceaan](https://www.nu.nl/wetenschap/6001361/the-ocean-cleanup-verzamelt-voor-het-eerst-plastic-in-grote-oceaan.htm)
