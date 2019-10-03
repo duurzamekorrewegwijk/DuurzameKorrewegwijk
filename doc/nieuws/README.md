@@ -6,6 +6,8 @@
 
 25 sep 2019
 
+* [ Rusland treedt formeel toe tot Klimaatakkoord van Parijs](https://www.duurzaamnieuws.nl/rusland-treedt-formeel-toe-tot-klimaatakkoord-van-parijs/)
+
 * [Gebakken lucht! (chantage door de NAM)](https://wijsvinger.com/gebakken-lucht/)
 
 * [Commissie-Remkes: heroverweeg subsidies voor biomassabijstook](https://energeia.nl/energeia-artikel/40084642/commissie-remkes-heroverweeg-subsidies-voor-biomassabijstook)
