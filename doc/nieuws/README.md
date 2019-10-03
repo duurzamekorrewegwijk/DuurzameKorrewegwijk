@@ -1,5 +1,6 @@
 # NIEUWS
 
+
 25 sep 2019
 
 * [Gebakken lucht! (chantage door de NAM)](https://wijsvinger.com/gebakken-lucht/)
@@ -38,3 +39,7 @@
 29 juli 2019
 
 * [Commissarissen AEB weg na debacle met verbrandingsovens](https://www.rtlz.nl/beurs/bedrijven/artikel/4797281/aeb-afvalverwerker-verbrandingsovens-achterstallig-onderhoud)
+
+24 jun 2019
+
+* [US military is a bigger polluter than as many as 140 countries – shrinking this war machine is a must](https://theconversation.com/us-military-is-a-bigger-polluter-than-as-many-as-140-countries-shrinking-this-war-machine-is-a-must-119269)
