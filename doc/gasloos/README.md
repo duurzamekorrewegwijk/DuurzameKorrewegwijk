@@ -33,3 +33,5 @@
 * [warmtenetten](../warmtenet/README.md)
 
 * [Van het gas af met warmtenet? Eerste dagen blijft het koel, dan gaat de warmte er met geen mogelijkheid meer uit](https://www.dvhn.nl/extra/Van-het-gas-af-met-warmtenet-Eerste-dagen-blijft-het-koel-dan-gaat-de-warmte-er-met-geen-mogelijkheid-meer-uit-24692942.html)
+
+* [Warmtenet Groningen verwarmd met restwarmte, gas en biomassa als 'terugvaloptie](https://www.dvhn.nl/groningen/Warmtenet-Groningen-verwarmd-met-restwarmte-gas-en-biomassa-als-terugvaloptie-24479250.html)
