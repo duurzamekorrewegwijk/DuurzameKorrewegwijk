@@ -46,3 +46,5 @@
 * [The Ocean Cleanup verzamelt voor het eerst plastic in Grote Oceaan](https://www.nu.nl/wetenschap/6001361/the-ocean-cleanup-verzamelt-voor-het-eerst-plastic-in-grote-oceaan.htm)
 
 * [Australia Cuts 80% of Plastic Bag Use in 3 Short Months ](https://www.ecowatch.com/australia-plastic-bag-ban-2622280343.html)
+
+* [Companies are promoting false solutions to plastic waste](https://www.treehugger.com/corporate-responsibility/companies-are-promoting-false-solutions-plastic-waste.html)
