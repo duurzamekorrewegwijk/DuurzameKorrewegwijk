@@ -1,7 +1,7 @@
 # AFVAL
 
 
-## Media artikelen
+## Media artikelen & documentaires
 
 * [Afvalbedrijven willen plafond buitenlands afval om afvalcrisis te voorkomen](https://nos.nl/artikel/2295152-afvalbedrijven-willen-plafond-buitenlands-afval-om-afvalcrisis-te-voorkomen.html)
 
@@ -48,3 +48,5 @@
 * [Australia Cuts 80% of Plastic Bag Use in 3 Short Months ](https://www.ecowatch.com/australia-plastic-bag-ban-2622280343.html)
 
 * [Companies are promoting false solutions to plastic waste](https://www.treehugger.com/corporate-responsibility/companies-are-promoting-false-solutions-plastic-waste.html)
+
+* [China is forcing the world to rethink recycling](https://www.youtube.com/watch?v=8HROn34sDRk)
