@@ -50,3 +50,5 @@
 * [Companies are promoting false solutions to plastic waste](https://www.treehugger.com/corporate-responsibility/companies-are-promoting-false-solutions-plastic-waste.html)
 
 * [China is forcing the world to rethink recycling](https://www.youtube.com/watch?v=8HROn34sDRk)
+
+* [Why everything will collapse](https://www.youtube.com/watch?v=YsA3PK8bQd8)
