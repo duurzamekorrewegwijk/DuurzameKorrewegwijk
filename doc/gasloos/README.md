@@ -28,6 +28,8 @@
 
 * [Duitsers zijn bezorgd over dichte gaskraan](https://www.e-pages.dk/dvhn/10245/article/978586/4/1/render/?token=8c712a2459c33fb09121d56ca0299b5f)
 
+* [Gemeenten worstelen met aardgasvrij maken wijken](https://www.rtlz.nl/algemeen/binnenland/artikel/4872906/gemeenten-worstelen-met-aardgasvrij-maken-wijken)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
