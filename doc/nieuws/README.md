@@ -1,5 +1,7 @@
 # NIEUWS
 
+* [Zon zet met zeer hoog rendement CO2 om naar methaan](https://www.tno.nl/nl/over-tno/nieuws/2019/4/zon-zet-met-zeer-hoog-rendement-co2-om-naar-methaan)
+
 2 okt 2019
 
 * [Hanzehogeschool krijgt 7 ton voor project waarin productie van groen gas uit gras centraal staat](https://www.dvhn.nl/groningen/stad/Hanzehogeschool-krijgt-7-ton-voor-project-waarin-productie-van-groen-gas-uit-gras-centraal-staat-24883227.html)
