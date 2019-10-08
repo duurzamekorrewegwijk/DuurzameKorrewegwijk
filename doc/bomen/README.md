@@ -143,3 +143,5 @@
 * ['Miljardensubsidies voor biomassa zijn weggegooid geld’](https://www.ad.nl/nieuws/miljardensubsidies-voor-biomassa-zijn-weggegooid-geld~adf24748)
 
 * [Wetenschappelijk advies: beperk verstoken biomassa, het is slecht voor het milieu](https://www.nrc.nl/nieuws/2019/10/03/wetenschappelijk-advies-beperk-verstoken-biomassa-het-is-slecht-voor-het-milieu-a3975489)
+
+* [Biomassale Kaalkap (Biomass Deforestation)](https://vimeo.com/356584707)
