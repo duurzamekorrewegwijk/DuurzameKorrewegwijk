@@ -145,3 +145,5 @@
 * [Wetenschappelijk advies: beperk verstoken biomassa, het is slecht voor het milieu](https://www.nrc.nl/nieuws/2019/10/03/wetenschappelijk-advies-beperk-verstoken-biomassa-het-is-slecht-voor-het-milieu-a3975489)
 
 * [Biomassale Kaalkap (Biomass Deforestation)](https://vimeo.com/356584707)
+
+* [Europese klimaatchef Timmermans wil massale herbebossing](https://www.ad.nl/politiek/europese-klimaatchef-timmermans-wil-massale-herbebossing~abf729d0)
