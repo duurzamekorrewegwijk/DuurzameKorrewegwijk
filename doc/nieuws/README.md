@@ -1,5 +1,8 @@
 # NIEUWS
 
+
+* [Europese klimaatchef Timmermans wil massale herbebossing](https://www.ad.nl/politiek/europese-klimaatchef-timmermans-wil-massale-herbebossing~abf729d0)
+
 * [Zon zet met zeer hoog rendement CO2 om naar methaan](https://www.tno.nl/nl/over-tno/nieuws/2019/4/zon-zet-met-zeer-hoog-rendement-co2-om-naar-methaan)
 
 2 okt 2019
