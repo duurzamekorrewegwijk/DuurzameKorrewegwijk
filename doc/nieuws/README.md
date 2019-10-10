@@ -1,5 +1,6 @@
 # NIEUWS
 
+8 okt 2019
 
 * [Europese klimaatchef Timmermans wil massale herbebossing](https://www.ad.nl/politiek/europese-klimaatchef-timmermans-wil-massale-herbebossing~abf729d0)
 
