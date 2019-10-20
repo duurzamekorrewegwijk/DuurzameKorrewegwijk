@@ -21,3 +21,7 @@
 * [There’s Finally a Way to Recycle the Plastic in Shampoo and Yogurt Packaging](https://www.bloomberg.com/news/features/2019-09-25/polypropylene-plastic-can-finally-be-recycled)
 
 * [French Scientist Invents Machine that Can Turn Plastic into Diesel and Gasoline](https://returntonow.net/2019/09/01/french-scientist-invents-machine-that-can-turn-plastic-into-diesel-and-gasoline)
+
+# PLASTIC ALTERNATIEVEN
+
+* [Banana leaves replace plastic packaging](https://news.cgtn.com/news/2019-10-20/Banana-leaves-replace-plastic-packaging-KWJkdeav8A/index.html)
