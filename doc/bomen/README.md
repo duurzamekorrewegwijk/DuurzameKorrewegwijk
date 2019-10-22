@@ -149,3 +149,5 @@
 * [Europese klimaatchef Timmermans wil massale herbebossing](https://www.ad.nl/politiek/europese-klimaatchef-timmermans-wil-massale-herbebossing~abf729d0)
 
 * [China and Africa are building 'great walls' of trees to hold back the desert. But will it work?](https://mobile.abc.net.au/news/2019-10-17/green-walls-in-china-and-africa-keeping-deserts-at-bay/11602796)
+
+* [‘Houtverbranding in biomassacentrales is totaal niet duurzaam](https://www.parool.nl/columns-opinie/houtverbranding-in-biomassacentrales-is-totaal-niet-duurzaam~b4108a1a)
