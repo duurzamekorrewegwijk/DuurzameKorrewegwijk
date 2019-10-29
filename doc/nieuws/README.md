@@ -1,5 +1,9 @@
 # NIEUWS
 
+29 okt 2019
+
+* [EIB: Huizenbezitter moet bloeden door te ambitieuze klimaatdoelen ](https://www.nporadio1.nl/binnenland/19594-eib-huizenbezitter-moet-bloeden-door-te-ambitieuze-klimaatdoelen)
+
 8 okt 2019
 
 * [Europese klimaatchef Timmermans wil massale herbebossing](https://www.ad.nl/politiek/europese-klimaatchef-timmermans-wil-massale-herbebossing~abf729d0)
