@@ -4,6 +4,10 @@
 
 * [EIB: Huizenbezitter moet bloeden door te ambitieuze klimaatdoelen ](https://www.nporadio1.nl/binnenland/19594-eib-huizenbezitter-moet-bloeden-door-te-ambitieuze-klimaatdoelen)
 
+28 okt 2019
+
+* [VNG: Gemeenten hebben klimaatplan nog lang niet op orde ](https://www.nporadio1.nl/natuur-milieu/19582-vng-gemeenten-hebben-klimaatplan-nog-lang-niet-op-orde)
+
 8 okt 2019
 
 * [Europese klimaatchef Timmermans wil massale herbebossing](https://www.ad.nl/politiek/europese-klimaatchef-timmermans-wil-massale-herbebossing~abf729d0)
