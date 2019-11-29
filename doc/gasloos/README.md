@@ -41,3 +41,5 @@
 * [Warmtenet Groningen verwarmd met restwarmte, gas en biomassa als 'terugvaloptie](https://www.dvhn.nl/groningen/Warmtenet-Groningen-verwarmd-met-restwarmte-gas-en-biomassa-als-terugvaloptie-24479250.html)
 
 * [Milieu-centraal: Warmtenet: verwarmen zonder aardgas](https://www.milieucentraal.nl/energie-besparen/energiezuinig-huis/wonen-zonder-aardgas/warmtenet-verwarmen-zonder-aardgas/)
+
+* [Van het aardgas af? Zo doen ze dat in Paddepoel: met een buurtwarmtenet (en zo werkt het)](https://www.dvhn.nl/groningen/Van-het-aardgas-af-Zo-doen-ze-dat-in-Paddepoel-met-een-buurtwarmtenet-en-zo-werkt-het-25023758.html)
