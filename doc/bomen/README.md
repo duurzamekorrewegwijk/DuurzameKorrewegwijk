@@ -155,3 +155,5 @@
 * [Australia will plant 1 billion trees in the next 11 years](https://www.weforum.org/agenda/2019/02/australia-to-plant-1-billion-trees-in-the-next-11-years-bringing-the-country-closer-to-paris-agreements-goals/)
 
 * [De Biomassale Kaalslag; Robin Noorda en Sven Hulleman (Weltschmerz)](https://www.youtube.com/watch?v=OJhpW6de_B0)
+
+* [Actie tegen 'massale bomenkap' in Groningen](https://www.rtvnoord.nl/nieuws/216143/Actie-tegen-massale-bomenkap-in-Groningen)
