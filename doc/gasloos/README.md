@@ -30,6 +30,8 @@
 
 * [Gemeenten worstelen met aardgasvrij maken wijken](https://www.rtlz.nl/algemeen/binnenland/artikel/4872906/gemeenten-worstelen-met-aardgasvrij-maken-wijken)
 
+* [Opinie: 'Liever aardgasarm dan aardgasvrij'](https://www.dvhn.nl/Meningen/Opinie/Liever-aardgasarm-dan-aardgasvrij-25065990.html)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
