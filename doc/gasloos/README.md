@@ -32,6 +32,8 @@
 
 * [Opinie: 'Liever aardgasarm dan aardgasvrij'](https://www.dvhn.nl/Meningen/Opinie/Liever-aardgasarm-dan-aardgasvrij-25065990.html)
 
+* [De redding van Groningen begint niet met de warmtepomp](https://www.trouw.nl/opinie/de-redding-van-groningen-begint-niet-met-de-warmtepomp~b54b97df/)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
