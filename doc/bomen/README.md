@@ -157,3 +157,5 @@
 * [De Biomassale Kaalslag; Robin Noorda en Sven Hulleman (Weltschmerz)](https://www.youtube.com/watch?v=OJhpW6de_B0)
 
 * [Actie tegen 'massale bomenkap' in Groningen](https://www.rtvnoord.nl/nieuws/216143/Actie-tegen-massale-bomenkap-in-Groningen)
+
+* [NRC Opinie 2/12/19: Kolencentrales gaan bomen stoken](http://www.mkatan.nl/krantenartikelen/569-nrc-opinie-2-12-19-kolencentrales-gaan-bomen-stoken)
