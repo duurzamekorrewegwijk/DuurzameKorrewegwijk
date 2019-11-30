@@ -159,3 +159,5 @@
 * [Actie tegen 'massale bomenkap' in Groningen](https://www.rtvnoord.nl/nieuws/216143/Actie-tegen-massale-bomenkap-in-Groningen)
 
 * [NRC Opinie 2/12/19: Kolencentrales gaan bomen stoken](http://www.mkatan.nl/krantenartikelen/569-nrc-opinie-2-12-19-kolencentrales-gaan-bomen-stoken)
+
+* [Can Planting Billions Of Trees Halt Climate Change?](https://www.youtube.com/watch?v=yvDRQe2oCt4)
