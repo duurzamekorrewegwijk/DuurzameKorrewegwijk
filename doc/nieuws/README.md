@@ -1,5 +1,9 @@
 # NIEUWS
 
+18 dec 2019
+
+* [Subsidie behoedt Groningse huiseigenaar voor 'energiearmoede' ](https://www.dvhn.nl/groningen/Subsidie-behoedt-Groningse-huiseigenaar-voor-energiearmoede-25156932.html)
+
 30 okt 2019
 
 * [Kabinet zit klem tussen klimaatdoelstellingen](https://fd.nl/ondernemen/1321659/kabinet-zit-klem-tussen-klimaatdoelstellingen)
