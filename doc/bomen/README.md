@@ -161,3 +161,7 @@
 * [NRC Opinie 2/12/19: Kolencentrales gaan bomen stoken](http://www.mkatan.nl/krantenartikelen/569-nrc-opinie-2-12-19-kolencentrales-gaan-bomen-stoken)
 
 * [Can Planting Billions Of Trees Halt Climate Change?](https://www.youtube.com/watch?v=yvDRQe2oCt4)
+
+* [Violence escalates as Romania cracks down on illegal timber trade ](https://www.theguardian.com/world/2020/jan/08/violence-escalates-as-romania-cracks-down-on-illegal-timber-trade)
+
+* [Let us plant 80.000.000 of trees in Congo](https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo)
