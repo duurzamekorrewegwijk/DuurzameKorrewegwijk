@@ -165,3 +165,5 @@
 * [Violence escalates as Romania cracks down on illegal timber trade ](https://www.theguardian.com/world/2020/jan/08/violence-escalates-as-romania-cracks-down-on-illegal-timber-trade)
 
 * [Let us plant 80.000.000 of trees in Congo](https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo)
+
+* [COP25: EU officials say biomass burning policy to come under critical review](https://news.mongabay.com/2019/12/cop25-eu-officials-say-biomass-burning-policy-to-come-under-critical-review/)
