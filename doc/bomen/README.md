@@ -167,3 +167,5 @@
 * [Let us plant 80.000.000 of trees in Congo](https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo)
 
 * [COP25: EU officials say biomass burning policy to come under critical review](https://news.mongabay.com/2019/12/cop25-eu-officials-say-biomass-burning-policy-to-come-under-critical-review/)
+
+* [Meer dan zestig milieuclubs eisen dat Staatsbosbeheer nu echt stopt met bomen kappen](https://www.trouw.nl/duurzaamheid-natuur/meer-dan-zestig-milieuclubs-eisen-dat-staatsbosbeheer-nu-echt-stopt-met-bomen-kappen~bbd02f87/)
