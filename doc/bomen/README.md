@@ -169,3 +169,5 @@
 * [COP25: EU officials say biomass burning policy to come under critical review](https://news.mongabay.com/2019/12/cop25-eu-officials-say-biomass-burning-policy-to-come-under-critical-review/)
 
 * [Meer dan zestig milieuclubs eisen dat Staatsbosbeheer nu echt stopt met bomen kappen](https://www.trouw.nl/duurzaamheid-natuur/meer-dan-zestig-milieuclubs-eisen-dat-staatsbosbeheer-nu-echt-stopt-met-bomen-kappen~bbd02f87/)
+
+* [Charcoal Congo](https://amp.dw.com/en/charcoal/av-50155336)
