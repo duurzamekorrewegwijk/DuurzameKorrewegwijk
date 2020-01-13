@@ -173,3 +173,5 @@
 * [Charcoal Congo](https://amp.dw.com/en/charcoal/av-50155336)
 
 * [EU voor de rechter gesleept voor steun aan biomassa als ´hernieuwbare energie’](https://boomwachtersgroningen.nl/%ef%bb%bfeu-voor-de-rechter-gesleept-voor-steun-aan-biomassa-als-hernieuwbare-energie/)
+
+* [Meer dan zestig milieuclubs eisen dat Staatsbosbeheer nu echt stopt met bomen kappen](https://www.trouw.nl/duurzaamheid-natuur/meer-dan-zestig-milieuclubs-eisen-dat-staatsbosbeheer-nu-echt-stopt-met-bomen-kappen~bbd02f87)
