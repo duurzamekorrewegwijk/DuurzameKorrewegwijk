@@ -174,3 +174,4 @@
 
 * [EU voor de rechter gesleept voor steun aan biomassa als ´hernieuwbare energie’](https://boomwachtersgroningen.nl/%ef%bb%bfeu-voor-de-rechter-gesleept-voor-steun-aan-biomassa-als-hernieuwbare-energie/)
 
+* [Filmmaker en ecoloog John D. Liu over leven blazen in dode landschappen ](https://www.lc.nl/economie/Filmmaker-en-ecoloog-John-D.-Liu-over-leven-blazen-in-dode-landschappen-24895213.html)
