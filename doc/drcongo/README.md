@@ -10,6 +10,8 @@ Great Inga Dam
 
 * [Grand Inga, Grand Illusions?](https://www.internationalrivers.org/resources/grand-inga-grand-illusions-1949)
 
-#80milliontrees for DR Congo
+#80milliontrees #challenge2020 for DR Congo
 
 * [https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo](https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo)
+
+* [Tree nursey in Lupatapata](https://twitter.com/Nanahtakaza/status/1217735073811791872)
