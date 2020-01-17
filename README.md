@@ -6,9 +6,9 @@
 vrij naar Henri de Wolf (oprichter Forma Actua)
 ```
 ---
-![wijkbakfiets](img/wijkbakfiets.jpg)
+![wijkbakfiets](img/challenge2020-80milliontrees.jpg)
 
- *de wijkbakfiets*
+ *#80milliontrees - #challenge2020*
 
 # Duurzame Korrewegwijk
 
