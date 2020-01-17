@@ -12,6 +12,6 @@ Great Inga Dam
 
 #80milliontrees #challenge2020 for DR Congo
 
-* [https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo](https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo)
+* [Fondsenwerving: Let us plant 80 million trees in DR Congo](https://www.gofundme.com/f/let-us-plant-80000000-of-trees-in-congo)
 
 * [Tree nursey in Lupatapata](https://twitter.com/Nanahtakaza/status/1217735073811791872)
