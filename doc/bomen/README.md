@@ -177,3 +177,5 @@
 * [Filmmaker en ecoloog John D. Liu over leven blazen in dode landschappen ](https://www.lc.nl/economie/Filmmaker-en-ecoloog-John-D.-Liu-over-leven-blazen-in-dode-landschappen-24895213.html)
 
 * [Amazone-stam wint rechtszaak tegen oliemaatschappij en redt een half miljoen hectare regenwoud](https://videovandaag.com/amazone-stam-wint-rechtszaak-tegen-oliemaatschappij-en-redt-een-half-miljoen-hectare-regenwoud)
+
+* [The Australian fire crisis and the necessity for socialism](https://www.wsws.org/en/articles/2020/01/11/stat-j11.htm)
