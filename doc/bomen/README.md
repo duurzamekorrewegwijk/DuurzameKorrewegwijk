@@ -181,3 +181,5 @@
 * [The Australian fire crisis and the necessity for socialism](https://www.wsws.org/en/articles/2020/01/11/stat-j11.htm)
 
 * [For final months of 2019, Amazon deforestation hits highest level in at least 13 years](https://news.mongabay.com/2020/01/for-final-months-of-2019-amazon-deforestation-hits-highest-level-in-at-least-13-years/)
+
+* [Eemshavencentale (RWE) stookt in 8 jaar 64.000 hectare bos….](https://www.interessantetijden.nl/2019/04/27/eemshavencentale-rwe-stookt-in-8-jaar-64-000-hectare-bos)
