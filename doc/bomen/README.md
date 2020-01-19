@@ -179,3 +179,5 @@
 * [Amazone-stam wint rechtszaak tegen oliemaatschappij en redt een half miljoen hectare regenwoud](https://videovandaag.com/amazone-stam-wint-rechtszaak-tegen-oliemaatschappij-en-redt-een-half-miljoen-hectare-regenwoud)
 
 * [The Australian fire crisis and the necessity for socialism](https://www.wsws.org/en/articles/2020/01/11/stat-j11.htm)
+
+* [For final months of 2019, Amazon deforestation hits highest level in at least 13 years](https://news.mongabay.com/2020/01/for-final-months-of-2019-amazon-deforestation-hits-highest-level-in-at-least-13-years/)
