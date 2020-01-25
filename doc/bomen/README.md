@@ -185,3 +185,5 @@
 * [Eemshavencentale (RWE) stookt in 8 jaar 64.000 hectare bos….](https://www.interessantetijden.nl/2019/04/27/eemshavencentale-rwe-stookt-in-8-jaar-64-000-hectare-bos)
 
 * [Madacascar Is Planting 60 Million Trees in Ambitious Drive Inspired by Its President](https://www.ecowatch.com/madacascar-tree-planting-2644879937.html)
+
+* [Boze Amerikanen: Nederlandse subsidies voor biomassa maken onze natuur kapot](https://www.ad.nl/buitenland/boze-amerikanen-nederlandse-subsidies-voor-biomassa-maken-onze-natuur-kapot~a84b8eed/)
