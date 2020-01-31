@@ -187,3 +187,5 @@
 * [Madacascar Is Planting 60 Million Trees in Ambitious Drive Inspired by Its President](https://www.ecowatch.com/madacascar-tree-planting-2644879937.html)
 
 * [Boze Amerikanen: Nederlandse subsidies voor biomassa maken onze natuur kapot](https://www.ad.nl/buitenland/boze-amerikanen-nederlandse-subsidies-voor-biomassa-maken-onze-natuur-kapot~a84b8eed/)
+
+* [Grote Nederlandse banken financieren ontbossing en landroof](https://www.bnnvara.nl/zembla/artikelen/grote-nederlandse-banken-financieren-ontbossing-en-landroof)
