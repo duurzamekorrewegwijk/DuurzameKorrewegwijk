@@ -189,3 +189,5 @@
 * [Boze Amerikanen: Nederlandse subsidies voor biomassa maken onze natuur kapot](https://www.ad.nl/buitenland/boze-amerikanen-nederlandse-subsidies-voor-biomassa-maken-onze-natuur-kapot~a84b8eed/)
 
 * [Grote Nederlandse banken financieren ontbossing en landroof](https://www.bnnvara.nl/zembla/artikelen/grote-nederlandse-banken-financieren-ontbossing-en-landroof)
+
+* [Amersfoort gooit deur dicht voor op hout gestookte biomassa](https://www.ad.nl/utrecht/amersfoort-gooit-deur-dicht-voor-op-hout-gestookte-biomassa~a20cd8fd)
