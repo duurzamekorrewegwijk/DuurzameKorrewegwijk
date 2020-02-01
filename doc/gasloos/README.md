@@ -34,6 +34,8 @@
 
 * [De redding van Groningen begint niet met de warmtepomp](https://www.trouw.nl/opinie/de-redding-van-groningen-begint-niet-met-de-warmtepomp~b54b97df/)
 
+* [Energieprof Smeulders: laat gas nog niet los](https://www.cursor.tue.nl/nieuws/2018/juli/week-1/energieprof-smeulders-laat-gas-nog-niet-los/)
+
 ## Warmte netten
 
 * [warmtenetten](../warmtenet/README.md)
