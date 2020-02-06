@@ -196,4 +196,4 @@
 
 * [Biomassive clear-cut](https://vimeo.com/388025992)
 
-* [Madacascar Is Planting 60 Million Trees in Ambitious Drive Inspired by Its President](https://www.ecowatch.com/madacascar-tree-planting-2644879937.htm)
+* [Brazil's Bolsonaro unveils bill to allow commercial mining on indigenous land](https://www.theguardian.com/world/2020/feb/06/brazil-bolsonaro-commercial-mining-indigenous-land-bill)
