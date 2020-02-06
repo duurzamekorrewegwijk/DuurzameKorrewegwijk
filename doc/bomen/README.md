@@ -195,3 +195,5 @@
 * [Verontrustend rapport over kapbeleid gemeente Groningen](https://www.dvhn.nl/groningen/Verontrustend-rapport-over-kapbeleid-gemeente-Groningen-25152385.html)
 
 * [Biomassive clear-cut](https://vimeo.com/388025992)
+
+* [Madacascar Is Planting 60 Million Trees in Ambitious Drive Inspired by Its President](https://www.ecowatch.com/madacascar-tree-planting-2644879937.htm)
