@@ -1,4 +1,6 @@
+Lumumba
 
+* [Patrice Lumumba: Revolution, Freedom, And Legacy In DR Congo](https://popularresistance.org/patrice-lumumba-revolution-freedom-and-legacy-in-dr-congo)
 
 Lake Kivu
 
