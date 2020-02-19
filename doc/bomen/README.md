@@ -199,3 +199,5 @@
 * [Brazil's Bolsonaro unveils bill to allow commercial mining on indigenous land](https://www.theguardian.com/world/2020/feb/06/brazil-bolsonaro-commercial-mining-indigenous-land-bill)
 
 * [Vraagtekens bij komst biomassacentrale naast revaliderende longpatiënten](https://www.rtvnoord.nl/nieuws/219011/Vraagtekens-bij-komst-biomassacentrale-naast-revaliderende-longpatienten)
+
+* [Norway Becomes First Country to Ban Palm Oil Biofuel Linked to “Catastrophic Deforestation”](https://returntonow.net/2018/12/13/norway-becomes-first-country-to-ban-palm-oil-biofuel-linked-to-catastrophic-deforestation/)
