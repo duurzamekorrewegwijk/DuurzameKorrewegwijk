@@ -203,3 +203,5 @@
 * [Norway Becomes First Country to Ban Palm Oil Biofuel Linked to “Catastrophic Deforestation”](https://returntonow.net/2018/12/13/norway-becomes-first-country-to-ban-palm-oil-biofuel-linked-to-catastrophic-deforestation/)
 
 * [Biomassa is het grootste schandaal van deze eeuw](https://www.hpdetijd.nl/columns/biomassa-is-het-grootste-schandaal-van-deze-eeuw)
+
+* [Bomenkap voor Tesla-fabriek stilgelegd, waarschuwing voor 'catastrofale' gevolgen](https://nos.nl/artikel/2323566-bomenkap-voor-tesla-fabriek-stilgelegd-waarschuwing-voor-catastrofale-gevolgen.html)
