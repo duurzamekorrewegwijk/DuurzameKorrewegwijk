@@ -205,3 +205,5 @@
 * [Biomassa is het grootste schandaal van deze eeuw](https://www.hpdetijd.nl/columns/biomassa-is-het-grootste-schandaal-van-deze-eeuw)
 
 * [Bomenkap voor Tesla-fabriek stilgelegd, waarschuwing voor 'catastrofale' gevolgen](https://nos.nl/artikel/2323566-bomenkap-voor-tesla-fabriek-stilgelegd-waarschuwing-voor-catastrofale-gevolgen.html)
+
+* [Tesla krijgt toestemming voor bomenkap voor fabriek Berlijn](https://www.nrc.nl/nieuws/2020/02/21/tesla-krijgt-toestemming-voor-bomenkap-voor-fabriek-berlijn-a3991245)
