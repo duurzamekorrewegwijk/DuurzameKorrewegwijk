@@ -207,3 +207,5 @@
 * [Bomenkap voor Tesla-fabriek stilgelegd, waarschuwing voor 'catastrofale' gevolgen](https://nos.nl/artikel/2323566-bomenkap-voor-tesla-fabriek-stilgelegd-waarschuwing-voor-catastrofale-gevolgen.html)
 
 * [Tesla krijgt toestemming voor bomenkap voor fabriek Berlijn](https://www.nrc.nl/nieuws/2020/02/21/tesla-krijgt-toestemming-voor-bomenkap-voor-fabriek-berlijn-a3991245)
+
+* [Egypt launches project to plant mangrove trees along Red Sea coast](https://www.egyptindependent.com/egypt-launches-project-to-plant-mangrove-trees-along-red-sea-coast)
