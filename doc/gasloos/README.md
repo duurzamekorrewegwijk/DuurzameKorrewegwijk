@@ -47,3 +47,5 @@
 * [Milieu-centraal: Warmtenet: verwarmen zonder aardgas](https://www.milieucentraal.nl/energie-besparen/energiezuinig-huis/wonen-zonder-aardgas/warmtenet-verwarmen-zonder-aardgas/)
 
 * [Van het aardgas af? Zo doen ze dat in Paddepoel: met een buurtwarmtenet (en zo werkt het)](https://www.dvhn.nl/groningen/Van-het-aardgas-af-Zo-doen-ze-dat-in-Paddepoel-met-een-buurtwarmtenet-en-zo-werkt-het-25023758.html)
+
+* [Gasnet eruit, warmtenet erin? Dat gaat zomaar niet!](https://www.nrc.nl/nieuws/2020/03/09/gasnet-eruit-warmtenet-erin-dat-gaat-zomaar-niet-a3993150)
