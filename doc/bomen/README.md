@@ -212,3 +212,5 @@
 
 * [Beantwoording vragen over het artikel ‘Bomen stoken in centrales?
 Waanzin!’](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2019/12/19/beantwoording-kamervragen-over-het-artikel-bomen-stoken-in-centrales/beantwoording-kamervragen-over-het-artikel-bomen-stoken-in-centrales.pdf)
+
+* [‘Houtverbranding in biomassacentrales is totaal niet duurzaam’](https://www.parool.nl/columns-opinie/houtverbranding-in-biomassacentrales-is-totaal-niet-duurzaam~b4108a1a)
