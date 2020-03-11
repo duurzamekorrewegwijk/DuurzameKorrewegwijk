@@ -209,3 +209,6 @@
 * [Tesla krijgt toestemming voor bomenkap voor fabriek Berlijn](https://www.nrc.nl/nieuws/2020/02/21/tesla-krijgt-toestemming-voor-bomenkap-voor-fabriek-berlijn-a3991245)
 
 * [Egypt launches project to plant mangrove trees along Red Sea coast](https://www.egyptindependent.com/egypt-launches-project-to-plant-mangrove-trees-along-red-sea-coast)
+
+* [Beantwoording vragen over het artikel ‘Bomen stoken in centrales?
+Waanzin!’](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2019/12/19/beantwoording-kamervragen-over-het-artikel-bomen-stoken-in-centrales/beantwoording-kamervragen-over-het-artikel-bomen-stoken-in-centrales.pdf)
