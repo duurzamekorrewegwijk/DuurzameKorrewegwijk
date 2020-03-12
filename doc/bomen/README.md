@@ -214,3 +214,7 @@
 Waanzin!’](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2019/12/19/beantwoording-kamervragen-over-het-artikel-bomen-stoken-in-centrales/beantwoording-kamervragen-over-het-artikel-bomen-stoken-in-centrales.pdf)
 
 * [‘Houtverbranding in biomassacentrales is totaal niet duurzaam’](https://www.parool.nl/columns-opinie/houtverbranding-in-biomassacentrales-is-totaal-niet-duurzaam~b4108a1a)
+
+* ['Klimaatimpact importgas groter dan van biomassa'](https://nos.nl/artikel/2326613-klimaatimpact-importgas-groter-dan-van-biomassa.html)
+
+* [Warmte uit aardgas of uit biomassa?][http://download.omroep.nl/nos/docs/100320_biomassa.pdf]
