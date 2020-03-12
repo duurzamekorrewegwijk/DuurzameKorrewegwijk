@@ -217,4 +217,4 @@ Waanzin!’](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kame
 
 * ['Klimaatimpact importgas groter dan van biomassa'](https://nos.nl/artikel/2326613-klimaatimpact-importgas-groter-dan-van-biomassa.html)
 
-* [Warmte uit aardgas of uit biomassa?][http://download.omroep.nl/nos/docs/100320_biomassa.pdf)
+* [Warmte uit aardgas of uit biomassa?](http://download.omroep.nl/nos/docs/100320_biomassa.pdf)
