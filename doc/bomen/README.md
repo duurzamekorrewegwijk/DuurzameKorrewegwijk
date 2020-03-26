@@ -220,3 +220,5 @@ Waanzin!’](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kame
 * [Warmte uit aardgas of uit biomassa?](http://download.omroep.nl/nos/docs/100320_biomassa.pdf)
 
 * [Is corona de prijs die we betalen voor ontbossing?](https://www.oneworld.nl/lezen/klimaat/klimaatonrecht/is-corona-de-prijs-die-we-betalen-voor-ontbossing/)
+
+* [Kabinet is niet van plan te stoppen met energie winnen uit biomassa](https://www.ad.nl/politiek/kabinet-is-niet-van-plan-te-stoppen-met-energie-winnen-uit-biomassa~a4c2fbe6)
