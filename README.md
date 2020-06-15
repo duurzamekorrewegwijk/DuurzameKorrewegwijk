@@ -59,7 +59,7 @@ Duurzame Korrewegwijk lanceerde begin dit jaar de campagne voor een CO2 neutrale
 * Meer investeren in woningisolatie en verduurzaming van woningen
 * Voor net iets meer dan 2 eurocent per kuub gas het gasgebruik compenseren door bomenaanplant projecten (overal ter wereld en volgens het Kyoto protocol) te steunen
 
-![spandoek](img/spandoek1c.pdf)
+![spandoek](img/spandoek1c.png)
 
 ## BIJDRAGEN
 
