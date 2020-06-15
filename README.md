@@ -31,9 +31,17 @@ Verdere thema's zijn:
 
 ## DISCUSSIE
 
+### Gasloos
+
 Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & gemeentelijk beleid dreigt te worden), hebben we een pagina aangemaakt met links naar artikelen over gasloos met de voors- en tegens van gasloos & alternatieven.
 
 * [Discussie over 'gasloos'](doc/gasloos/README.md)
+
+### Biomassa/bomen
+
+AL geruime tijd woedt er de discussie over hoe duurzaam en CO2 neutraal biomassa nu is. Alsmede is er de discussie over het nut van bomenplanten als bijdrage aan klimaat beleid en tegengaan bodem-erosie en woestijnvorming. Artikelen hierover staan o de onderstaande pagina.
+
+* [Bomen en biomassa](doc/bomen/README.md)
 
 ## DOCUMENTEN
 
@@ -42,6 +50,16 @@ Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & g
 ## NIEUWS
 
 [nieuws](doc/nieuws/README.md)
+
+## CAMPAGNE
+
+Duurzame Korrewegwijk lanceerde begin dit jaar de campagne voor een CO2 neutrale wijk. Deze campagne draait om de volgende doelstellingen:
+* Terugdraaien van de subsidie voor biomassa (momenteel 11 miljard euro per jaar)
+* Tegengaan van bomenkap
+* Meer investeren in woningisolatie en verduurzaming van woningen
+* Voor net iets meer dan 2 eurocent per kuub gas het gasgebruik compenseren door bomenaanplant projecten (overal ter wereld en volgens het Kyoto protocol) te steunen
+
+
 
 ## BIJDRAGEN
 
