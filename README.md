@@ -39,7 +39,7 @@ Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & g
 
 ### Biomassa/bomen
 
-AL geruime tijd woedt er de discussie over hoe duurzaam en CO2 neutraal biomassa nu is. Alsmede is er de discussie over het nut van bomenplanten als bijdrage aan klimaat beleid en tegengaan bodem-erosie en woestijnvorming. Artikelen hierover staan o de onderstaande pagina.
+AL geruime tijd woedt er de discussie over hoe duurzaam en CO2 neutraal biomassa nu is. Alsmede is er de discussie over het nut van bomenplanten als bijdrage aan klimaat beleid en tegengaan bodem-erosie en woestijnvorming. Artikelen hierover staan op de onderstaande pagina.
 
 * [Bomen en biomassa](doc/bomen/README.md)
 
