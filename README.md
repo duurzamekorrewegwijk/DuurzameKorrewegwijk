@@ -31,6 +31,10 @@ Verdere thema's zijn:
 
 ## DISCUSSIE
 
+### Afvalbeleid
+
+* [Afvalbeleid](doc/afvalbeleid/README.md)
+
 ### Gasloos
 
 Omdat het 'gasloos' beleid nu volop in discussie is (en binnenkort landelijk & gemeentelijk beleid dreigt te worden), hebben we een pagina aangemaakt met links naar artikelen over gasloos met de voors- en tegens van gasloos & alternatieven.
