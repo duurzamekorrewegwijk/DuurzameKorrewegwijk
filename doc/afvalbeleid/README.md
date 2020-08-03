@@ -13,3 +13,4 @@
 * [RTVNoord 'Denk goed na voor je in Groningen laat betalen per afvalbak of -zak' ](https://www.rtvnoord.nl/nieuws/218104/Denk-goed-na-voor-je-in-Groningen-laat-betalen-per-afvalbak-of-zak)
 * [DvhN Stad Groningen dichter bij Diftar-afvalscheiding](https://www.dvhn.nl/groningen/Stad-dichter-bij-afvalscheiding-25265597.html)
 * [Beijumnieuws: DIFTAR ZAL BEIJUM NOG MEER GAAN VERSMEREN](https://beijumnieuws.blogspot.com/2020/01/diftar-zal-beijum-nog-meer-gaan.html)
+* [OogTV: Diftar of niet, afvalstoffenheffing stijgt met bijna 14 procent](https://www.oogtv.nl/2020/07/diftar-of-niet-afvalstoffenheffing-stijgt-met-bijna-14/)
