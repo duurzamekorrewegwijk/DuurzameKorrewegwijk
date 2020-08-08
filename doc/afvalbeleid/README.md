@@ -18,5 +18,7 @@
 * [Beijumnieuws: diftar](https://beijumnieuws.blogspot.com/search?q=diftar&max-results=20&by-date=true)
 * [OogTV: Diftar of niet, afvalstoffenheffing stijgt met bijna 14 procent](https://www.oogtv.nl/2020/07/diftar-of-niet-afvalstoffenheffing-stijgt-met-bijna-14/)
 
+## Posters
+
 ![GeenDiftar](../../img/vooreencao5a.jpg)
 ![VooreenCAO](../../img/vooreencao5b.jpg)
