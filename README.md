@@ -74,5 +74,5 @@ duurzamekorrewegwijk@gmail.com
 ---
 > “De essentie van het kapitalisme is om de natuur in waren te veranderen en waren in kapitaal. De levende groene aarde wordt omgevormd tot dode gouden stenen, met luxe artikelen voor de weinigen en giftige slakkenbergen voor de velen. Het glinsterende landhuis kijkt uit over uitgestrekte sloppenwijken, waar een wanhopige, gedemoraliseerde mensheid onder contrôle wordt gehouden middels drugs, televisie en gewapende macht."
 
-Michael Parenti
+> Michael Parenti
 ---
