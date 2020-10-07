@@ -3,6 +3,7 @@
 ## Enquete
 
 * [Afval & duurzaamheid enquete Korrewegwijk & De Hoogte/Selwerderwijken](afvalenquete.pdf)
+* [Enquete resultaten](enqueteresultaten.pdf)
 
 ## Rapporten & Notities
 
